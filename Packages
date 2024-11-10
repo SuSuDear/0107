@@ -534,14 +534,15 @@ Maintainer: lzsxcl
 Installed-Size: 18848
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/xc.lzsxcl.o2pro_13.0_iphoneos-arm64.deb
-Size: 6130840
-MD5sum: 445e21540de50dbccf81b33d637befc4
-SHA1: bde6f69b78d62381eb5d19aaf09d40a2f1892984
-SHA256: b4fdb633d055310d419144a5a502ca74c6a0481fb9edbff75c1ef7e0bb4d2c78
+Size: 6129852
+MD5sum: 2b9ad1cc6f058e74e64121799e45d5b2
+SHA1: cf4f9d505115f1a3fe54c1dedc7ba54078b3c7fb
+SHA256: 7f751dc8bcf3022064452699ab8d140a5f2b9c360f5ee30749d8cc2e38f3f8c4
 Section: 插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
-Depiction: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
