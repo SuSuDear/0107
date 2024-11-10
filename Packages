@@ -308,6 +308,21 @@ Description: 用于修复更换三方电池后 设置中该死的提示 当前�
 Icon: https://susudear.github.io/images/dianchi.png
 Name: BatteryRepair
 
+Package: com.susu.ios16
+Version: 1.9
+Architecture: iphoneos-arm64
+Filename: ./debs/com.susu.ios16_1.9_iphoneos-arm64.deb
+Size: 84266184
+MD5sum: aae638949a337ea65633e5ebfd707ab6
+SHA1: f93f8d0dfd9b3b6d0d7034081acbec7e7a93f2f5
+SHA256: 70ac0f50a9ca6674fb2ccb72bf1e1980927ca8fc11ffe6c2f7e8d7e95ec97fc9
+Section: 字体
+Priority: optional
+Description: 需要先挂载字体目录，之后再来安装！
+Author: 苏苏
+Icon: https://raw.githubusercontent.com/SuSuDear/SuSuDear.github.io/80430823ef53c9f48014ef3d813279d3806aba47/images/ziti.png
+Name: ios16 90%
+
 Package: com.susu.photos
 Version: 1.0
 Architecture: iphoneos-arm64
