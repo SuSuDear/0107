@@ -528,21 +528,20 @@ Icon: https://susudear.github.io/images/gpt.png
 Name: ChatGPT越狱版
 
 Package: xc.lzsxcl.o2pro
-Version: 12.201
+Version: 13.0
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
-Installed-Size: 21792
+Installed-Size: 18848
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/Six Six 66 xc.lzsxcl.o2pro_12.201_iphoneos-arm64.deb
-Size: 10439698
-MD5sum: 1f2317bce158bccf94d468526f89eb99
-SHA1: b14e379652918cb3a1cdc4b40750ffaa1d9686d6
-SHA256: 4e9c1dd63d8449d94a004f453af858860bf3a2336c5c49e9777582c0dbc22a29
-Section: Tweaks
+Filename: ./debs/xc.lzsxcl.o2pro_13.0_iphoneos-arm64.deb
+Size: 6130840
+MD5sum: 445e21540de50dbccf81b33d637befc4
+SHA1: bde6f69b78d62381eb5d19aaf09d40a2f1892984
+SHA256: b4fdb633d055310d419144a5a502ca74c6a0481fb9edbff75c1ef7e0bb4d2c78
+Section: 插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Depiction: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
