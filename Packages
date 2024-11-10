@@ -325,6 +325,21 @@ Author: 苏苏
 Icon: https://raw.githubusercontent.com/SuSuDear/SuSuDear.github.io/80430823ef53c9f48014ef3d813279d3806aba47/images/ziti.png
 Name: ios16原生字体 90%大小
 
+Package: com.susu.luping
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Filename: ./debs/com.susu.luping_1.0.1_iphoneos-arm64.deb
+Size: 3976
+MD5sum: 22cdc2bd4777283e30e9b6574e41ceb4
+SHA1: 04c3444dfc9be809c9f33b434d1539452758ecdc
+SHA256: 0fb54cdf8f30f9ae0c81641f264254a5dc706f01808c34a3b04e4d36a2c3d025
+Section: 调整
+Description: 苏苏动态录屏，需要配合苏苏主题！
+Author: 苏苏
+Icon: https://raw.githubusercontent.com/SuSuDear/SuSuDear.github.io/7962dcdb9564cc297b5b34d184fb709d3ef240c4/images/luping.png
+Name: 灵动岛动态录屏
+
 Package: com.susu.photos
 Version: 1.0
 Architecture: iphoneos-arm64
