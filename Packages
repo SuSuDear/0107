@@ -311,17 +311,18 @@ Name: BatteryRepair
 Package: com.susu.ios16
 Version: 1.9
 Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.susu.ios16_1.9_iphoneos-arm64.deb
-Size: 84266184
-MD5sum: aae638949a337ea65633e5ebfd707ab6
-SHA1: f93f8d0dfd9b3b6d0d7034081acbec7e7a93f2f5
-SHA256: 70ac0f50a9ca6674fb2ccb72bf1e1980927ca8fc11ffe6c2f7e8d7e95ec97fc9
+Size: 84266896
+MD5sum: ebbbacdc614774190371003686e81eae
+SHA1: 7987318fe51f96edefe362ca99d4e9f9abdbcf00
+SHA256: ff334c7e4ca6a8117130721ed2cb9e2804587738fbdf6bf1398dc3af77705f9c
 Section: 字体
-Priority: optional
-Description: 需要先挂载字体目录，之后再来安装！
 Author: 苏苏
 Icon: https://raw.githubusercontent.com/SuSuDear/SuSuDear.github.io/80430823ef53c9f48014ef3d813279d3806aba47/images/ziti.png
-Name: ios16 90%
+Name: ios16 09%
 
 Package: com.susu.photos
 Version: 1.0
