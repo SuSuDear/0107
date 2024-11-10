@@ -315,14 +315,15 @@ Maintainer: 苏苏
 Installed-Size: 712
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.susu.ios16_1.9_iphoneos-arm64.deb
-Size: 84266896
-MD5sum: ebbbacdc614774190371003686e81eae
-SHA1: 7987318fe51f96edefe362ca99d4e9f9abdbcf00
-SHA256: ff334c7e4ca6a8117130721ed2cb9e2804587738fbdf6bf1398dc3af77705f9c
+Size: 84266252
+MD5sum: c7558fc8860f9dc65495545c6cee2b36
+SHA1: 5745150368b17160792cc0cf06cac3af60342f95
+SHA256: 2a9631e598baf9e542c269e398a314b4ac3c4cf3ee78c3a8b30d1821e1016c45
 Section: 字体
+Description: 苏苏提取ios16原生字体，修改为90%大小，使用前请先挂载！
 Author: 苏苏
 Icon: https://raw.githubusercontent.com/SuSuDear/SuSuDear.github.io/80430823ef53c9f48014ef3d813279d3806aba47/images/ziti.png
-Name: ios16 09%
+Name: ios16原生字体 90%大小
 
 Package: com.susu.photos
 Version: 1.0
