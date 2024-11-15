@@ -37,10 +37,10 @@ Version: 0.1.2
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.checkproxybypass.su_0.1.2_iphoneos-arm64.deb
-Size: 4564
-MD5sum: dc1ef86de4f13663584571cd62218369
-SHA1: 95e53a91a4e3a214bbff678220a97be563b29bfb
-SHA256: c8cb49b6d55b308a4c8ab42309434023083a1133640a37541dd3dc4a99574f2e
+Size: 7916
+MD5sum: 310d2c1a83a9a3b8490459bcc8d6e7ee
+SHA1: f2ae8dcaf8f3c4ad4ed7f47ef9291531fe062aa4
+SHA256: 51af4d72b8111dd63056cc4b7c8eff3c6f5b8de6a31a1e7bcf2d8790d6d30710
 Section: 插件
 Description: 去除app抓包检测,安装之后在设置里面开启
 Icon: https://susudear.github.io/images/vpn.png
