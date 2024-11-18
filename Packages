@@ -15,6 +15,23 @@ Author: 0xkuj
 Icon: https://susudear.github.io/images/tongzhi.png
 Name: NotificationsGroupCount
 
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.notificationsgroupcounts_1.0.5_iphoneos-arm64.deb
+Size: 67852
+MD5sum: 0f7f5bc7f0230cc3d539f1f1ef97e57a
+SHA1: e566e8641688981409647abc355e409e56c5aa51
+SHA256: 413e52fd98faf339333306643d5e144797cc25dca9fbd9b1f188ecd01ed04aa7
+Section: 插件
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://susudear.github.io/images/tongzhi.png
+Name: NotificationsGroupCount
+
 Package: com.82flex.singlemute
 Version: 1.5
 Architecture: iphoneos-arm64
