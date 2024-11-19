@@ -5,14 +5,14 @@ Maintainer: 0xkuj
 Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.0xkuj.notificationsgroupcounts_1.0.4_iphoneos-arm64.deb
-Size: 67964
-MD5sum: 4468c56fd53c0942551985245435c127
-SHA1: 5fbb3a330797d83941b7dd684c1e7b8c6d6d2a35
-SHA256: 2fd30a9b03933d5be0cfbcabe3ce164d2748f24e5a086ab073bc5ccfe4961c7d
+Size: 67952
+MD5sum: 5c921ddba575550d7b7b453c6e3bf0ff
+SHA1: 56539f9adb8183e6a1a4a6205ae245d8f0bcec52
+SHA256: d09cc76aac65c77cb0471ce3fdbd7bf8e23780224f9a0d15934fc5954ce2fa41
 Section: 插件
 Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
-Icon: https://susudear.github.io/images/tongzhi.png
+Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
 Package: com.0xkuj.notificationsgroupcounts
@@ -22,14 +22,14 @@ Maintainer: 0xkuj
 Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.0xkuj.notificationsgroupcounts_1.0.5_iphoneos-arm64.deb
-Size: 67852
-MD5sum: 0f7f5bc7f0230cc3d539f1f1ef97e57a
-SHA1: e566e8641688981409647abc355e409e56c5aa51
-SHA256: 413e52fd98faf339333306643d5e144797cc25dca9fbd9b1f188ecd01ed04aa7
+Size: 67876
+MD5sum: 79bbd22213dc93caa32c4bf44cb35983
+SHA1: 4cf06be016cb844a6277d3daff4eee7f25c0f816
+SHA256: e30a974a20f29e215b2d4566261b4f03d189995c5e872f9fcf1a23c8e368468a
 Section: 插件
 Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
-Icon: https://susudear.github.io/images/tongzhi.png
+Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
 Package: com.82flex.singlemute
@@ -39,14 +39,14 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 380
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.singlemute_1.5_iphoneos-arm64.deb
-Size: 24204
-MD5sum: e98a0e8c63b6e4fd944b157f0f626d77
-SHA1: 8fa9b2ea45d3e58f6f858cfa898434ef95fa3b17
-SHA256: 0de7dea3b7231718fa3199ec32df639bb99b61ebc32227ff00cfad402e93ee61
+Size: 24212
+MD5sum: 2ce525526bdcf64b4d5af1aa77c16a98
+SHA1: b57aeaf72be488c72378028705afa2bd8dcade08
+SHA256: 52ab01de77eb57c8cecc957e06e226be40393be9f2184466f91466979fa1e203
 Section: 插件
 Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
-Icon: https://susudear.github.io/images/Singlemute.png
+Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
 
 Package: com.checkproxybypass.su
@@ -54,13 +54,13 @@ Version: 0.1.2
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.checkproxybypass.su_0.1.2_iphoneos-arm64.deb
-Size: 7916
-MD5sum: 310d2c1a83a9a3b8490459bcc8d6e7ee
-SHA1: f2ae8dcaf8f3c4ad4ed7f47ef9291531fe062aa4
-SHA256: 51af4d72b8111dd63056cc4b7c8eff3c6f5b8de6a31a1e7bcf2d8790d6d30710
+Size: 7904
+MD5sum: 3be345013ae1658e9f0c70a89d97838d
+SHA1: b860b714accae04c9134a0dadb529257effea7ef
+SHA256: ce1894998b812d1d9aa296f7e3e366b695d47b90d92250eb4e3cb76fbefb64f5
 Section: 插件
 Description: 去除app抓包检测,安装之后在设置里面开启
-Icon: https://susudear.github.io/images/vpn.png
+Icon: https://susubaby.top/images/vpn.png
 Name: Checkproxybypass
 Sponsor: 苏苏
 
@@ -71,14 +71,14 @@ Maintainer: 苏苏
 Installed-Size: 1060
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.classickeyboardxs-susubody_1.2_iphoneos-arm64.deb
-Size: 233068
-MD5sum: 7f4c42fdcd81406fc6b9c8b781886fe2
-SHA1: ecebacff12b70c5464dacaa5fe78eb5c5d68cd81
-SHA256: c835347573ed294b8ee6327f1515238b64b1706cb0a0bab9d3bf3b60bdb64ebe
+Size: 233292
+MD5sum: edeb5d6a4b6259dfccf742b4068a377f
+SHA1: e264ef24ce0c26749b214a7c04b966d2c5cf759c
+SHA256: 0f40218a23722b24a77eecf2d380effe3834d11a99b0d0f4a777ec59de023535
 Section: 调整
 Description: 自定义键盘底部高度，地球底部高度等
 Author: Netskao
-Icon: https://susudear.github.io/images/jianpan.png
+Icon: https://susubaby.top/images/jianpan.png
 Name: Classickeyboardxs
 Sponsor: 苏苏
 
@@ -89,10 +89,10 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1064
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
 Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
-Size: 386688
-MD5sum: 226302798ec7b80c91b54203dbfd157b
-SHA1: 2fbc3cb8f328f49c0b558632654efeb168b4781d
-SHA256: bc165ef2a823ff1452bb98aadc4c52f70bff213d6b0f01d2a2712e8c33ee7032
+Size: 386696
+MD5sum: 10b8ab8fbe863b3f655648bdbe45c0e9
+SHA1: 72638ada263b77c7a6f055db6348cec46e39057a
+SHA256: 709fcaf89e86f18fd0a861a6d2cd26c5553bb137319893574a8f98922eb18236
 Section: 应用
 Priority: optional
 Homepage: https://creaturecoding.com/
@@ -101,7 +101,7 @@ Tag: purpose::application, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
 Dev: CreatureSurvive
-Icon: https://susudear.github.io/images/tweak.png
+Icon: https://susubaby.top/images/tweak.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
@@ -130,10 +130,10 @@ Installed-Size: 428
 Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64.deb
-Size: 41020
-MD5sum: a80ee1c701268add51877dfa72dd0186
-SHA1: 5c6a8a813aef639667e12df25022f7eb5eec391f
-SHA256: 199a48161c4ec0b8fa8aa37ed7b11bcf15248fc0c0b2a82396105b17a6c40d65
+Size: 41040
+MD5sum: e1131691b25f1a44956c9e9be1b1f694
+SHA1: 4736e83c461cd75e5133fcd37218c24ba8be431b
+SHA256: fc1d07ea6b218584ff7f297efb5dfbc0fd31af0bb473571aaa8f1836875d84ba
 Section: 调整
 Homepage: https://ichitaso.com/
 Description: Hide "Keyboard Settings" from the globe button switcher
@@ -141,7 +141,7 @@ Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
 Author: ichitaso <willfeeltips+hks@gmail.com>
 Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
 Dev: ichitaso
-Icon: https://susudear.github.io/images/HidekBSettings.png
+Icon: https://susubaby.top/images/HidekBSettings.png
 Name: HideKBSettings (iOS 11 to 16)
 
 Package: com.julioverne.spotilife
@@ -150,13 +150,13 @@ Architecture: iphoneos-arm64
 Maintainer: Julio
 Depends: mobilesubstrate
 Filename: ./debs/com.julioverne.spotilife_1.8_iphoneos-arm64.deb
-Size: 104488
-MD5sum: 447155246489f54d36b4514c4a488542
-SHA1: 399421cef155496d0cff596bc64654ac010e2637
-SHA256: 5bb30c910856e5152f7beb1c8e26ee13e2b5bbbed7a72a06cc81c022c1a4c792
+Size: 104544
+MD5sum: 4976e353c9df9dffb989d3740dbf6a52
+SHA1: 6af3dc524cc3228599134f76b78297828c11bc24
+SHA256: b77622a0d8789255b8a80cf889d6532522f15ce15333698eb85f42ed3c9755f9
 Section: 插件
 Description: Spotify无限跳过，删除广告，解锁超高质量流。。。需要Spotify应用程序 (AppStore)
-Icon: https://susudear.github.io/images/spotify.png
+Icon: https://susubaby.top/images/spotify.png
 Name: Spotilife
 
 Package: com.level3tjg.sposifyfix
@@ -165,14 +165,14 @@ Architecture: iphoneos-arm64
 Maintainer: level3tjg
 Depends: mobilesubstrate (>= 0.9.5000), com.spos
 Filename: ./debs/com.level3tjg.sposifyfix_0.0.6_iphoneos-arm64.deb
-Size: 15412
-MD5sum: 1af4dce8c030b8459e73438d0d1a3683
-SHA1: f5ac9aaa9c0b7e4b25914b58a40547cf1938ae27
-SHA256: 1cf2bb54b42f45816296d0d21c39352d7636ed2d6307e6cc104302c248749374
+Size: 15512
+MD5sum: 70b1daa20379dd30f80864f10ee7db16
+SHA1: 7ccc633954b32bf82771d13a8382ef0339d003dc
+SHA256: 31bff179b5db1347d5d96645e3201360e9ec05805a709496369d7ad828ce434b
 Section: 插件
 Description: Fix for Sposify for Spotify v8.6.30
 Author: level3tjg
-Icon: https://susudear.github.io/images/spotify.png
+Icon: https://susubaby.top/images/spotify.png
 Name: Sposify Fix
 
 Package: com.nahtedetihw.reachplayer-rootless
@@ -204,16 +204,16 @@ Architecture: iphoneos-arm64
 Installed-Size: 805
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.netskao.downgradeapp_1.1-9_iphoneos-arm64.deb
-Size: 438080
-MD5sum: e1782172ca4e130aa2fbe85aaabc1aec
-SHA1: cbe59d65730b2811f87875ceac894f1e6953135c
-SHA256: 101c140d9630f0aeaa32dbed769f48f190de4532bc0bcb9c53c948d06d64624c
+Size: 438060
+MD5sum: 25194a896b0fb86b178f4a2101a871a9
+SHA1: 754e368b2e7ca9a46bfe66a56fee4f5a16bcadcc
+SHA256: 98b6828916839072cca0c188944309285e94f3af3f65a98dceddd927ad7d8aa5
 Section: 应用
 Description: 狗哥应用降级越狱版
 Tag: purpose::extension
 Author: 应用降级
 Depiction: 狗哥应用降级越狱版
-Icon: https://susudear.github.io/images/appstore.png
+Icon: https://susubaby.top/images/appstore.png
 Name: 应用降级越狱版
 
 Package: com.ps.apppad.susu
@@ -224,14 +224,14 @@ Installed-Size: 172
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
 Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
 Filename: ./debs/com.ps.apppad.susu_1.1.4_iphoneos-arm64.deb
-Size: 6592
-MD5sum: 70ea6601327561b54bc233b37afedc5c
-SHA1: 7f78c4653ad222853fa1738fed6608206e5c82a4
-SHA256: 281f92b337f980247f49218c8717fe63533f28de60dd5e758ac4172c6a9dc68c
+Size: 6588
+MD5sum: 2b3ccb2a188e1e2da874279cb9e1c448
+SHA1: 9afec91eb793e5d38b7bf21bc7624d843ba493bd
+SHA256: bab7d6557d46f3dc7af9fa7915c3afdf9bd3170d98cc77edfc250179ab69c6ea
 Section: 插件
 Description: 在ipad上任意应用强制全屏/强制竖横屏 还可作用于分屏插件的随机bug
 Author: PoomSmart
-Icon: https://susudear.github.io/images/apppad.PNG
+Icon: https://susubaby.top/images/apppad.PNG
 Name: AppPad
 
 Package: com.ps.smoothcursorios13
@@ -242,14 +242,14 @@ Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 6.0)
 Conflicts: org.thebigboss.smoothcursor
 Filename: ./debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64.deb
-Size: 3152
-MD5sum: 4e33fdfdf71cd6d15049c8408d6f1705
-SHA1: d062e6574f1739c5a5ae5a6a880e5dd9e6d579f3
-SHA256: 7d6e971fddba2c9f9d7069f1369c1775ed09ee95411bee975e5aceca92cf2d6d
+Size: 3156
+MD5sum: e58093dccfa92d6bbb9382b41efaea19
+SHA1: b9745340edfd3c14be256ad081cf6957730cc640
+SHA256: dd4a67896ed287e078ab1202630fd6fc034feb4b56cfc9ed22dc755380310346
 Section: Tweaks
 Description: 仿Office 2013的输入光标
 Author: PoomSmart
-Icon: https://susudear.github.io/images/smoothcursor.png
+Icon: https://susubaby.top/images/smoothcursor.png
 Name: SmoothCursor (iOS 13+)
 
 Package: com.skypain.ccrespring
@@ -279,14 +279,14 @@ Maintainer: aesthyrica
 Installed-Size: 464
 Depends: mobilesubstrate
 Filename: ./debs/com.spos_8.5.52_iphoneos-arm64.deb
-Size: 67920
-MD5sum: 8da8dae966e90d40c1634827a10a90bb
-SHA1: 98cf086fe5493606d62d65109fed1e484a198e26
-SHA256: 2e4f655138ebba971f730ddc24c30f794f29232d8d1e9df1d35261f49ea96444
+Size: 68056
+MD5sum: 8fde3451636bf7e764c767f6e13d5757
+SHA1: 0c0dab94500504906c050fe6b0f2778091b96e46
+SHA256: 9a72004d065b0672a4356a4f4ad1fc8cab12089cad4f4e55e465eb30e89a40f6
 Section: 插件
 Description: Sposify是一个调整，为iOS上的Spotify应用程序添加了各种增强功能
 Author: aesthyrica
-Icon: https://susudear.github.io/images/spotify.png
+Icon: https://susubaby.top/images/spotify.png
 Name: Sposify
 
 Package: com.su.recordpauses
@@ -299,14 +299,14 @@ Conflicts: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpaus
 Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
 Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
 Filename: ./debs/com.su.recordpauses_2.0.4_iphoneos-arm64.deb
-Size: 10164
-MD5sum: a6e7628d2be96e808a17d0d14ec76606
-SHA1: 29387eaa201948a23266aaa7e18fb8f67e083d01
-SHA256: 39b69a8b44cdac96662b7c583c83bc908f96ba82a14f613d11eb8a3f6ff9963d
+Size: 10160
+MD5sum: 52bbad5a1f11864469864cb128bcc9f1
+SHA1: 61fadfc14c9dc4a581ae0072b206859cf8bdb882
+SHA256: 64d80dcbf21b418782e8c254c7b0f11282078467255cda0e2f260847573987be
 Section: 插件
 Description: 录像暂停 Pause/resume video recording in iOS Camera app.
 Author: PoomSmart
-Icon: https://susudear.github.io/images/camera.png
+Icon: https://susubaby.top/images/camera.png
 Name: 录像暂停 RecordPause
 
 Package: com.sunshinesong.split-view-pro
@@ -315,15 +315,15 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 5484
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/split-view-pro_1.4.0_iphoneos-arm64.deb
-Size: 1579964
-MD5sum: 0b19a6691704b4c0b6421cb96048aec8
-SHA1: 63b202b0dfc24a0db3307813a55c0225b10efc54
-SHA256: 63154509f1db423e959bf0ebe69e3389798c0022d8e78229cb19ea60a2c0418c
+Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64.deb
+Size: 1578708
+MD5sum: 33b26df292bd51498dc93ec05d563d5b
+SHA1: 9ddf73420af58c6c63482cdcf945f1f47a2ae331
+SHA256: 9a32956635b27de1cceba49d82b374dbc6f1cdf390fc0de1822e7825a55a5b91
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@18ff06670017ce476201654e5f0fa9aeb483acb2/images/svp.png
+Icon: https://susubaby.top//images/svp.png
 Name: split-view-pro
 Ts: sp-sss
 
@@ -334,12 +334,12 @@ Maintainer: 苏苏
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.susu.battery_1.0_iphoneos-arm64.deb
 Size: 7280
-MD5sum: 32313e5554819cf3e071588b47284725
-SHA1: a8311c3f251901969dd43b7651a64d1e8c75b48d
-SHA256: 6a9845e7bc04a8f5121cd3e43eec19dde635b298671e7e60d25e0c7c4ebda793
+MD5sum: 2b2491d8c2b7b859b1c8d3b775a05164
+SHA1: 47eb97129052ecb91752846931205f5c13ee4f0a
+SHA256: b9fe28a87009e20f134d2a520cf0b725746f8d2aee6758883e45ef967a86449b
 Section: 系统
 Description: 用于修复更换三方电池后 设置中该死的提示 当前插件可以修复设置中为原装显示状态
-Icon: https://susudear.github.io/images/dianchi.png
+Icon: https://susubaby.top/images/dianchi.png
 Name: BatteryRepair
 
 Package: com.susu.ios16
@@ -349,14 +349,14 @@ Maintainer: 苏苏
 Installed-Size: 712
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.susu.ios16_1.9_iphoneos-arm64.deb
-Size: 84266252
-MD5sum: c7558fc8860f9dc65495545c6cee2b36
-SHA1: 5745150368b17160792cc0cf06cac3af60342f95
-SHA256: 2a9631e598baf9e542c269e398a314b4ac3c4cf3ee78c3a8b30d1821e1016c45
+Size: 84266652
+MD5sum: b269ab8791fae7a927269d9b030f6280
+SHA1: 2adfb28266523e08902002900d4490c3003c3de2
+SHA256: f17682fda2d124c42aa1ac2a3e4b5ed9d4374af25892894eea568f9b0eab5224
 Section: 字体
 Description: 苏苏提取ios16原生字体，修改为90%大小，使用前请先挂载！
 Author: 苏苏
-Icon: https://raw.githubusercontent.com/SuSuDear/SuSuDear.github.io/80430823ef53c9f48014ef3d813279d3806aba47/images/ziti.png
+Icon: https://susubaby.top/images/ziti.png
 Name: ios16原生字体 90%大小
 
 Package: com.susu.luping
@@ -364,16 +364,16 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Filename: ./debs/com.susu.luping_1.0.1_iphoneos-arm64.deb
-Size: 4016
-MD5sum: 537290977c85ac1ac42f4aa834de9ae8
-SHA1: e51a6e32bf40271415112393ffc4ca0f75583df8
-SHA256: d0e069d063bedf48eadc9c1487bd42f02363a0f40c46ef4a6a4570b441a6d546
+Size: 3964
+MD5sum: 52610484b6b61ea3cc031ff8c85e1638
+SHA1: 5f5aba44b62dcf18e00cbd018bd0166333e40abe
+SHA256: aa4c01bdf577ecf67f778d4cb0959b041c94752838b38cc77c7bf1e3ca6d0c4c
 Section: 调整
 Description: 苏苏动态录屏
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
 Author: 苏苏
-Icon: https://raw.githubusercontent.com/SuSuDear/SuSuDear.github.io/7962dcdb9564cc297b5b34d184fb709d3ef240c4/images/luping.png
+Icon: https://susubaby.top//images/luping.png
 Name: 灵动岛动态录屏
 
 Package: com.susu.photos
@@ -383,13 +383,13 @@ Maintainer: 苏苏
 Installed-Size: 712
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.susu.photos_1.0_iphoneos-arm64.deb
-Size: 4024
-MD5sum: 4cf97119b8015f56c58377f21402097e
-SHA1: ac01b03d1e871d749fbf1d71b0ce6af2442cafb0
-SHA256: 7a99978397caac16df887d130e01e20e683fa870b5838d2c97f22a2f57e60032
+Size: 4020
+MD5sum: 18354c6caf8cb864219b359e383e6d54
+SHA1: 3e3ce166ca0984ae1b16f5139045f472dac76971
+SHA256: 9d6daa7a68099be5768a0f1eff9a82792fc52a224bee7fed2473a8a8801f3d7c
 Section: 系统
 Author: 苏苏
-Icon: https://susudear.github.io/images/photos.png
+Icon: https://susubaby.top/images/photos.png
 Name: 相册增强
 
 Package: com.susu.talkatone
@@ -399,14 +399,14 @@ Maintainer: 苏苏
 Installed-Size: 11056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.talkatone_1.0.1_iphoneos-arm64.deb
-Size: 2476
-MD5sum: dffa315febfc21b34b847de0934dc7cf
-SHA1: 5b7b52f746284851ada1d90e4d6fe6e041db8ee1
-SHA256: a13b23e8816bf030432cf70d0e0fb15216126055f1633c4261b6604342eafb08
+Size: 2472
+MD5sum: 988b9c66b33deba2288b2a1cdcfe0176
+SHA1: 86bd40c8900b97ee3fa5c9c8ecfa304519696bf8
+SHA256: c96e6d9a3dce2e86b97eaeb487a2aee9a4753f1781d2fabdf0623acd0189964e
 Section: 去广告
 Description: Talkatone去广告
 Author: 苏苏
-Icon: https://susudear.github.io/images/Talkatone.png
+Icon: https://susubaby.top/images/Talkatone.png
 Name: Talkatone
 
 Package: com.susu.themes
@@ -414,14 +414,14 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: SuSu
 Filename: ./debs/com.susu.themes_1.0.1_iphoneos-arm64.deb
-Size: 4105676
-MD5sum: 38c58e93fdd2b981fd95a5115de82725
-SHA1: c8de4f6fcf097a7cb8a85b822835c6321097a187
-SHA256: 807ad7ff58ad32d44dac3e0457167fd70bf57069f45ded17e9b5300cbb8fc0a6
+Size: 4106876
+MD5sum: 2dfe63c345cf4e3cad26621b5956b25f
+SHA1: 797a6c13559f2b3649bd9f96823dc00c72876adc
+SHA256: b43fcf73a3bb18b14b9b85e72588f37d119dd674ba3c779ffe6978355869c032
 Section: 主题
 Description: 主题备份
 Author: SuSu
-Icon: https://susudear.github.io/images/themes.png
+Icon: https://susubaby.top/images/themes.png
 Name: 苏苏主题备份
 
 Package: com.susubody.latchkey
@@ -431,14 +431,14 @@ Maintainer: Maxwell Dausch
 Installed-Size: 13476
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.susubody.latchkey_2.3.2_iphoneos-arm64.deb
-Size: 423220
-MD5sum: fa6ab6f13be748890028042f0cd0f473
-SHA1: 46a697103b72077e79bf44e6a0a7a19ba2ee0498
-SHA256: ee7cb985eee968476b713937e7ed75aa1a2228def3ae45c4ebd73e152a7071c5
+Size: 423076
+MD5sum: 193bb926f690d227e63cd7804e998794
+SHA1: 57a7d8df9652ea6c9aeaf9f96447561f4c20c71e
+SHA256: 49fa93417e6a3920c394a6790c6036a04c316a5615bef11fd8cdb8f1abdae5e3
 Section: 插件
-Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)
+Description: 自定义锁头图标和位置
 Author: Maxwell Dausch
-Icon: https://susudear.github.io/images/latchkey.png
+Icon: https://susubaby.top/images/latchkey.png
 Name: Latchkey
 
 Package: com.susubody.susutools
@@ -446,14 +446,14 @@ Version: 9.9.9.9
 Architecture: iphoneos-arm64
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.susubody.susutools_9.9.9.9_iphoneos-arm64.deb
-Size: 10636
-MD5sum: d519012133980a0a0f4dbd95944a1158
-SHA1: 964e523707f7ff601cef394f138a35dbcee9584d
-SHA256: 5eff30682fd8be42e9c5b3a0e8b3471fe86cb23a3d0f6d54cab77cefafda713c
+Size: 10640
+MD5sum: 129fb449d1429d2cb75ea5c9f9a611c1
+SHA1: 71ddab8d6e9cfe1f1f229c1c026317b65ac53275
+SHA256: 005e965549fd3a010750b40fd65fea6196f62821c431540fde4f41fe898f2725
 Section: 系统
 Description: 使用方法：Filza进入/var/mobile/Documents运行SuSuTools.sh
 Author: 苏苏
-Icon: https://susudear.github.io/images/susu.png
+Icon: https://susubaby.top/images/susu.png
 Name: SuSuTools
 
 Package: com.wrp1002.nosettingsbadge
@@ -464,13 +464,13 @@ Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64.deb
 Size: 4560
-MD5sum: 81bb30c7f41838d77a8e7cc38a337e1d
-SHA1: 60bb65bbd62d7dda709775c176bb524f86cb2208
-SHA256: 248a0a417faaff8036078263e0de4c21245899bffdac994afa8e669521dbd3e8
+MD5sum: 83431d6712861c90402450b196b74ca9
+SHA1: 1e486981e7fd2fe7771bc500e6ab2b7fe581536b
+SHA256: bb2505b1b9ab8a7b5fbb982f1519f55396103bab0b23cf6a6d7943ac5db8cbd5
 Section: 调整
 Description: 删除设置通知徽章！
 Author: Wes <wes.hamster@gmail.com>
-Icon: https://susudear.github.io/images/Preferences.png
+Icon: https://susubaby.top/images/Preferences.png
 Name: NoSettingsBadge
 
 Package: com.yourepo.0xash.fixrepairsystempower
@@ -514,14 +514,14 @@ Maintainer: Nets
 Installed-Size: 496
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/netskao.3dnetworkfixer-rootless_1.1-8_iphoneos-arm64.deb
-Size: 115904
-MD5sum: fd99fd1c7a5cfb95cb6a200f7f4cf6e6
-SHA1: a09a819772c7355d7f267682c5597fb02c68a115
-SHA256: 1862597f94e6dc25a6157e3e343ce8111955c1bbd283023496dfa16e4ee41f1c
+Size: 116048
+MD5sum: 0d4df9e35d2c73672abcddf6fcdf8cad
+SHA1: 1d52ed33351e472515b95e09429fd07ecb412c7c
+SHA256: 4deba64c4b5e13e696fcb8137f394a9ed75d480c6a1fff2138ed3af68a9bfef2
 Section: 插件
 Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
 Author: Netskao
-Icon: https://susudear.github.io/images/chuizi.png
+Icon: https://susubaby.top/images/chuizi.png
 Name: 3DNetworkFixer-Rootless
 
 Package: ru.domo.cocoatop64
@@ -531,14 +531,14 @@ Maintainer: Hitori
 Depends: firmware (>= 15.0)
 Conflicts: ru.domo.cocoatop
 Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64.deb
-Size: 233856
-MD5sum: 0bd249344abaaec9d4e7d27eb127e3c9
-SHA1: 2ed871a105de3c378681bc8652a0b6b63a756bf7
-SHA256: 3a63b296f4af9ec359fb2e2cd0c92b84320ee3ada6192193c280273a369394ff
+Size: 233908
+MD5sum: f2d557005cfbdfcc91946611eaf000f4
+SHA1: fe4bb767cbe75cd834af0e9bef327114c85644fd
+SHA256: 20169e097473dac3ef0c3c1688caf5e8762e5f9ad11594c7a1195ba15470127f
 Section: 应用
 Description: Process Viewer for iOS
 Author: Domo <domo@rambler.ru>
-Icon: https://susudear.github.io/images/CocoaTop.png
+Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
@@ -549,16 +549,16 @@ Maintainer: someone
 Installed-Size: 805
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/susu.chatgpt.as_1.2.7_iphoneos-arm64.deb
-Size: 171256
-MD5sum: e7eb4135f1dcbb8f404b45e60eded6a2
-SHA1: 9a4571bae44b52f0da59a843992d0247962214c4
-SHA256: 2a58d7ff0a739a8e9aba005300c3702fb7a9244133904aa5f440c440cc2aef41
+Size: 171264
+MD5sum: c6d23f59741796706b5763f88d33fe41
+SHA1: 07ac30464a1a8daec24b1913ebdfbb4cb510f870
+SHA256: 7fc16b4a32f0849b9acbadef5c0284ded04c234bd2996d21842ba2179b4501ab
 Section: 应用
 Description: 苏苏为阿水AI制作的ios端应用 当前为越狱版
 Tag: purpose::extension
 Author: 苏苏
 Depiction: 苏苏为阿水AI制作的ios端应用 当前为越狱版
-Icon: https://susudear.github.io/images/gpt.png
+Icon: https://susubaby.top/images/gpt.png
 Name: ChatGPT越狱版
 
 Package: xc.lzsxcl.o2pro
