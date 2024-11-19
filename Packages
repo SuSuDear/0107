@@ -112,10 +112,10 @@ Maintainer: fiore
 Installed-Size: 240
 Depends: mobilesubstrate
 Filename: ./debs/com.fiore.calculatorhistory_1.8_iphoneos-arm64.deb
-Size: 23228
-MD5sum: 5eb4819b6265060e9e0518a6e3b28ec1
-SHA1: 9233836639ce9992462abe923484a43c0acd7b50
-SHA256: b7da2c170ce26c227a148b7b50b5710b614543c28d19f75b6b2c6317b58618eb
+Size: 23268
+MD5sum: 499b8f3744a59eea2973ea9036bbf312
+SHA1: 74d233148d8e95081f5687bce3edb46cacb22707
+SHA256: 60b16544787f7d30abf4489a4db780a694980b509ca3c1f3966b7a235c5b2c45
 Section: Tweaks
 Description: 计算器获得历史记录!
 Author: fiore
