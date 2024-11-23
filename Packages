@@ -349,10 +349,10 @@ Maintainer: 苏苏
 Installed-Size: 608
 Depends: mobilesubstrate
 Filename: ./debs/com.susu.daynightswitch_1.0.5_iphoneos-arm64.deb
-Size: 85952
-MD5sum: 237d604ebef44234b733ce6e3b725fc7
-SHA1: 7d5ed831550717e1e4261aa5312184737fa70923
-SHA256: b8552129e4cc96495e106a75bd2b8094bd8a0db7ced744e4b5a7a156a48ea02a
+Size: 93660
+MD5sum: d9c1ccf5e41c7c3bb3cbef858ef6b0d4
+SHA1: 493bc8b9970df1abd56813753dc8150ac4c4466d
+SHA256: 9486b1f213187eae473479a71bf628aba29a58e1f23df5076bbdc8f0cd60a8ee
 Section: 插件
 Description: 为您的开关添加一些风格
 Author: 苏苏
