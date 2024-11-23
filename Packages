@@ -342,6 +342,23 @@ Description: 用于修复更换三方电池后 设置中该死的提示 当前�
 Icon: https://susubaby.top/images/dianchi.png
 Name: BatteryRepair
 
+Package: com.susu.daynightswitch
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 608
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.daynightswitch_1.0.5_iphoneos-arm64.deb
+Size: 85952
+MD5sum: 237d604ebef44234b733ce6e3b725fc7
+SHA1: 7d5ed831550717e1e4261aa5312184737fa70923
+SHA256: b8552129e4cc96495e106a75bd2b8094bd8a0db7ced744e4b5a7a156a48ea02a
+Section: 插件
+Description: 为您的开关添加一些风格
+Author: 苏苏
+Icon: https://susubaby.top/images/kaiguan.png
+Name: SuSuDayNightSwitch
+
 Package: com.susu.ios16
 Version: 1.9
 Architecture: iphoneos-arm64
