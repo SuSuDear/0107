@@ -1,7 +1,7 @@
 Origin: -苏苏源
 Label: 苏苏自用源
 Suite: stable
-Version: 1.1
+Version: 1.2
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
