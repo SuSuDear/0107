@@ -579,16 +579,16 @@ Icon: https://susubaby.top/images/gpt.png
 Name: ChatGPT越狱版
 
 Package: xc.lzsxcl.o2pro
-Version: 13.0
+Version: 13.2
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
-Installed-Size: 18848
+Installed-Size: 19300
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_13.0_iphoneos-arm64.deb
-Size: 6129852
-MD5sum: 2b9ad1cc6f058e74e64121799e45d5b2
-SHA1: cf4f9d505115f1a3fe54c1dedc7ba54078b3c7fb
-SHA256: 7f751dc8bcf3022064452699ab8d140a5f2b9c360f5ee30749d8cc2e38f3f8c4
+Filename: ./debs/xc.lzsxcl.o2pro_13.2_iphoneos-arm64.deb
+Size: 6495420
+MD5sum: 3d2180a38e930dcd26db174dbaaaf4b1
+SHA1: 4e1024f096181fd2c07551cb5e3a1e3f18224aea
+SHA256: dc5b162bbdc692505f5404ca7e46e4915b67e76e893baf27ff9e7e6f59fc54db
 Section: 插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
