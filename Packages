@@ -431,10 +431,10 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: SuSu
 Filename: ./debs/com.susu.themes_1.0.1_iphoneos-arm64.deb
-Size: 4106876
-MD5sum: 2dfe63c345cf4e3cad26621b5956b25f
-SHA1: 797a6c13559f2b3649bd9f96823dc00c72876adc
-SHA256: b43fcf73a3bb18b14b9b85e72588f37d119dd674ba3c779ffe6978355869c032
+Size: 4117928
+MD5sum: 330f9657469798ad6f365cff29debea6
+SHA1: 664d4f610ef77004bccae2d4c0567cb1c1a14e59
+SHA256: 9333716a38130a504017cd9b13e4103253a11f43aa2b47fad84969e0f933ea20
 Section: 主题
 Description: 主题备份
 Author: SuSu
