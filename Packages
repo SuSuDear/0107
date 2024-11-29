@@ -359,6 +359,21 @@ Description: 用于修复更换三方电池后 设置中该死的提示 当前�
 Icon: https://susubaby.top/images/dianchi.png
 Name: BatteryRepair
 
+Package: com.susu.colorful
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Filename: ./debs/com.susu.colorful_1.0.0_iphoneos-arm64.deb
+Size: 1348
+MD5sum: 27303ba92418d1bb9f5039ad02a3834f
+SHA1: 8e9c59d714d7f689a891b80c374ba5fa1decb21d
+SHA256: c09f2e21d263d86398c1973f73d0495abb5e5ee05eee885d7ea5085742192276
+Section: 主题
+Description: Colorful主题
+Author: SuSu
+Icon: https://susubaby.top/images/colorful.png
+Name: 苏苏Colorful主题备份
+
 Package: com.susu.daynightswitch
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -442,21 +457,6 @@ Description: Talkatone去广告
 Author: 苏苏
 Icon: https://susubaby.top/images/Talkatone.png
 Name: Talkatone
-
-Package: com.susu.themes
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: SuSu
-Filename: ./debs/com.susu.themes_1.0.0_iphoneos-arm64.deb
-Size: 1356
-MD5sum: c8b08b545cc93713e7c372eb230c083d
-SHA1: 0f18b063d739385cd0ca0fe88a5b68066e3c6d72
-SHA256: c0d07113649425e152abf863169e915e8dd1f2edb73f69291fffe14435418af6
-Section: 主题
-Description: Colorful主题
-Author: SuSu
-Icon: https://susubaby.top/images/colorful.png
-Name: 苏苏Colorful主题备份
 
 Package: com.susu.themes
 Version: 1.0.1
