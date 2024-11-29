@@ -444,6 +444,21 @@ Icon: https://susubaby.top/images/Talkatone.png
 Name: Talkatone
 
 Package: com.susu.themes
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Filename: ./debs/com.susu.themes_1.0.0_iphoneos-arm64.deb
+Size: 1356
+MD5sum: c8b08b545cc93713e7c372eb230c083d
+SHA1: 0f18b063d739385cd0ca0fe88a5b68066e3c6d72
+SHA256: c0d07113649425e152abf863169e915e8dd1f2edb73f69291fffe14435418af6
+Section: 主题
+Description: Colorful主题
+Author: SuSu
+Icon: https://susubaby.top/images/colorful.png
+Name: 苏苏Colorful主题备份
+
+Package: com.susu.themes
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: SuSu
