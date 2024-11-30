@@ -613,3 +613,22 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: xc.lzsxcl.o2pro
+Version: 13.3
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 19400
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_13.3_iphoneos-arm64.deb
+Size: 6511044
+MD5sum: 1efe3aea06501c164b9c702d3130e65d
+SHA1: 2d598de2086c1cecccf0cd74248acae682ad35d2
+SHA256: 58ef7b91a37e0f0bafd950d5d64637e660691b44f51d6758ebd81918b9407792
+Section: 插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
