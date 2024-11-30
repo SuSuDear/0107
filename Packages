@@ -32,6 +32,23 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
 
+Package: com.be-huge.floating-view
+Version: 1.4.6-2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.4.6-2_iphoneos-arm64.deb
+Size: 502828
+MD5sum: 328025e0768301223446ad861bf20641
+SHA1: 784b5d9a5aaba425916b0a05a0b2992832884733
+SHA256: 67b8c01a502b8e3699d825b23866c89f5920aac9d375d25c951df00d1c4af409
+Section: 插件
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://susubaby.top/images/svp.png
+Name: floatingView
+
 Package: com.checkproxybypass.su
 Version: 0.1.2
 Architecture: iphoneos-arm64
