@@ -430,14 +430,14 @@ Architecture: iphoneos-arm64
 Installed-Size: 718
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./debs/com.susu.springanimations_1.1.1_iphoneos-arm64.deb
-Size: 28688
-MD5sum: 93752f37a6ade704029f0276966fe36d
-SHA1: bb5220a7314029dc478a27a90332edcd33a3f7d9
-SHA256: 5b2dcdd671467228f0044acc6becefe5cbf7a057a35b97ac2dcdf6725630a97c
+Size: 28680
+MD5sum: 362828dd877d892b1126ed03d0fffd5c
+SHA1: 9c211326c8bd6333991370f931b6b3765a145df5
+SHA256: b3cbb183bb1ec8bc6b5f251b40c04ad988f665b26284afde5a1ae30d0742ffc5
 Section: 插件
 Description: iOS 11-16上的漂亮动画效果！
 Author: SuSu
-Icon: https://susubaby.top/images/
+Icon: https://susubaby.top/images/springanimations.png
 Name: SpringAnimations
 
 Package: com.susu.talkatone
