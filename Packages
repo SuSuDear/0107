@@ -448,10 +448,10 @@ Architecture: iphoneos-arm64
 Installed-Size: 718
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./debs/com.susu.springanimations_1.1.1_iphoneos-arm64.deb
-Size: 28680
-MD5sum: 362828dd877d892b1126ed03d0fffd5c
-SHA1: 9c211326c8bd6333991370f931b6b3765a145df5
-SHA256: b3cbb183bb1ec8bc6b5f251b40c04ad988f665b26284afde5a1ae30d0742ffc5
+Size: 39308
+MD5sum: 25c7c976e45461545477ec1ed5d4f1e7
+SHA1: bef07858343028ea60b68c32c29ffe9491d0e94b
+SHA256: 5854f5f8c8957ac0869e8b3e0c893bc8c6a70da781148fa260f1022596b390af
 Section: 插件
 Description: iOS 11-16上的漂亮动画效果！
 Author: SuSu
