@@ -349,10 +349,10 @@ Maintainer: someone
 Installed-Size: 98820
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.chatgpt_1.2.8_iphoneos-arm64.deb
-Size: 164992
-MD5sum: 5b4cd68a826f5619fd7020f18c234933
-SHA1: 5cb3be63065edcbe29f490ca743e6a97af1d04f1
-SHA256: ea66c353ed9ad7c5edb2084847db37fd0b0372ccf7f044365a0568ba86ba5e4d
+Size: 164952
+MD5sum: 72ddbb5c84cc770486dd13329f09ae7c
+SHA1: 38e27aa18355f38d5f38b5b42789c6917851a68d
+SHA256: b03709716e42b1feb0e4e68e11e48c847a2833d57e77dce130930e13e3db02c1
 Section: 应用
 Description: 苏苏为阿水AI制作的ios端应用 当前为越狱版
 Author: 苏苏
