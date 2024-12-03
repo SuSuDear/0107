@@ -424,6 +424,22 @@ Author: 苏苏
 Icon: https://susubaby.top/images/photos.png
 Name: 相册增强
 
+Package: com.susu.springanimations
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Installed-Size: 718
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/com.susu.springanimations_1.1.1_iphoneos-arm64.deb
+Size: 28688
+MD5sum: 93752f37a6ade704029f0276966fe36d
+SHA1: bb5220a7314029dc478a27a90332edcd33a3f7d9
+SHA256: 5b2dcdd671467228f0044acc6becefe5cbf7a057a35b97ac2dcdf6725630a97c
+Section: 插件
+Description: iOS 11-16上的漂亮动画效果！
+Author: SuSu
+Icon: https://susubaby.top/images/
+Name: SpringAnimations
+
 Package: com.susu.talkatone
 Version: 1.0.1
 Architecture: iphoneos-arm64
