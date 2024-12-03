@@ -342,6 +342,24 @@ Description: 用于修复更换三方电池后 设置中该死的提示 当前�
 Icon: https://susubaby.top/images/dianchi.png
 Name: BatteryRepair
 
+Package: com.susu.chatgpt
+Version: 1.2.8
+Architecture: iphoneos-arm64
+Maintainer: someone
+Installed-Size: 98820
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.chatgpt_1.2.8_iphoneos-arm64.deb
+Size: 164992
+MD5sum: 5b4cd68a826f5619fd7020f18c234933
+SHA1: 5cb3be63065edcbe29f490ca743e6a97af1d04f1
+SHA256: ea66c353ed9ad7c5edb2084847db37fd0b0372ccf7f044365a0568ba86ba5e4d
+Section: 应用
+Description: 苏苏为阿水AI制作的ios端应用 当前为越狱版
+Author: 苏苏
+Depiction: 苏苏为阿水AI制作的ios端应用 当前为越狱版
+Icon: https://susubaby.top/images/gpt.png
+Name: ChatGPT越狱版
+
 Package: com.susu.colorful
 Version: 1.0.0
 Architecture: iphoneos-arm64
