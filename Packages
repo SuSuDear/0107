@@ -608,25 +608,6 @@ Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
-Package: susu.chatgpt.as
-Version: 1.2.7
-Architecture: iphoneos-arm64
-Maintainer: someone
-Installed-Size: 805
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/susu.chatgpt.as_1.2.7_iphoneos-arm64.deb
-Size: 171264
-MD5sum: c6d23f59741796706b5763f88d33fe41
-SHA1: 07ac30464a1a8daec24b1913ebdfbb4cb510f870
-SHA256: 7fc16b4a32f0849b9acbadef5c0284ded04c234bd2996d21842ba2179b4501ab
-Section: 应用
-Description: 苏苏为阿水AI制作的ios端应用 当前为越狱版
-Tag: purpose::extension
-Author: 苏苏
-Depiction: 苏苏为阿水AI制作的ios端应用 当前为越狱版
-Icon: https://susubaby.top/images/gpt.png
-Name: ChatGPT越狱版
-
 Package: xc.lzsxcl.o2pro
 Version: 13.0
 Architecture: iphoneos-arm64
