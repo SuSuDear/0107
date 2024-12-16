@@ -198,24 +198,6 @@ Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.r
 Someotherentrytocontrol: True
 Tags: compatible_min::ios13.0, compatible_max::ios16.4
 
-Package: com.netskao.downgradeapp
-Version: 1.1-9
-Architecture: iphoneos-arm64
-Installed-Size: 805
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.netskao.downgradeapp_1.1-9_iphoneos-arm64.deb
-Size: 438060
-MD5sum: 25194a896b0fb86b178f4a2101a871a9
-SHA1: 754e368b2e7ca9a46bfe66a56fee4f5a16bcadcc
-SHA256: 98b6828916839072cca0c188944309285e94f3af3f65a98dceddd927ad7d8aa5
-Section: 应用
-Description: 狗哥应用降级越狱版
-Tag: purpose::extension
-Author: 应用降级
-Depiction: 狗哥应用降级越狱版
-Icon: https://susubaby.top/images/appstore.png
-Name: 应用降级越狱版
-
 Package: com.ps.apppad.susu
 Version: 1.1.4
 Architecture: iphoneos-arm64
