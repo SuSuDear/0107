@@ -32,23 +32,6 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
 
-Package: com.be-huge.floating-view
-Version: 1.4.6-2
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2540
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.6-2_iphoneos-arm64.deb
-Size: 502828
-MD5sum: 328025e0768301223446ad861bf20641
-SHA1: 784b5d9a5aaba425916b0a05a0b2992832884733
-SHA256: 67b8c01a502b8e3699d825b23866c89f5920aac9d375d25c951df00d1c4af409
-Section: 插件
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Icon: https://susubaby.top/images/svp.png
-Name: floatingView
-
 Package: com.checkproxybypass.su
 Version: 0.1.2
 Architecture: iphoneos-arm64
@@ -291,24 +274,6 @@ Author: PoomSmart
 Icon: https://susubaby.top/images/camera.png
 Name: 录像暂停 RecordPause
 
-Package: com.sunshinesong.split-view-pro
-Version: 1.4.0
-Architecture: iphoneos-arm64
-Maintainer: sunshinesong
-Installed-Size: 5484
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64.deb
-Size: 1578708
-MD5sum: 33b26df292bd51498dc93ec05d563d5b
-SHA1: 9ddf73420af58c6c63482cdcf945f1f47a2ae331
-SHA256: 9a32956635b27de1cceba49d82b374dbc6f1cdf390fc0de1822e7825a55a5b91
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: sunshinesong
-Icon: https://susubaby.top//images/svp.png
-Name: split-view-pro
-Ts: sp-sss
-
 Package: com.susu.battery
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -323,24 +288,6 @@ Section: 系统
 Description: 用于修复更换三方电池后 设置中该死的提示 当前插件可以修复设置中为原装显示状态
 Icon: https://susubaby.top/images/dianchi.png
 Name: BatteryRepair
-
-Package: com.susu.chatgpt
-Version: 1.2.8
-Architecture: iphoneos-arm64
-Maintainer: someone
-Installed-Size: 98820
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.chatgpt_1.2.8_iphoneos-arm64.deb
-Size: 164952
-MD5sum: 72ddbb5c84cc770486dd13329f09ae7c
-SHA1: 38e27aa18355f38d5f38b5b42789c6917851a68d
-SHA256: b03709716e42b1feb0e4e68e11e48c847a2833d57e77dce130930e13e3db02c1
-Section: 应用
-Description: 苏苏为阿水AI制作的ios端应用 当前为越狱版
-Author: 苏苏
-Depiction: 苏苏为阿水AI制作的ios端应用 当前为越狱版
-Icon: https://susubaby.top/images/gpt.png
-Name: ChatGPT越狱版
 
 Package: com.susu.colorful
 Version: 1.0.0
