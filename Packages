@@ -436,6 +436,22 @@ Author: 苏苏
 Icon: https://susubaby.top/images/susu.png
 Name: SuSuTools
 
+Package: com.tencent.themebox
+Version: 1.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 5172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.0.6-2_无根.deb
+Size: 2538634
+MD5sum: 7900a908e2c5279d8ace127c5ab78125
+SHA1: 920f63fb0d9cd594adae5938e97fad5df7f3bd03
+SHA256: 8ad8d5d3e29c0c02bea2a371b4d9eba19b8830bf6dd8f6c9e9dcb46e07883dc9
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+
 Package: com.wrp1002.nosettingsbadge
 Version: 1.1.0
 Architecture: iphoneos-arm64
