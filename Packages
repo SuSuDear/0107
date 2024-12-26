@@ -32,21 +32,6 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
 
-Package: com.checkproxybypass.su
-Version: 0.1.2
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/com.checkproxybypass.su_0.1.2_iphoneos-arm64.deb
-Size: 7904
-MD5sum: 3be345013ae1658e9f0c70a89d97838d
-SHA1: b860b714accae04c9134a0dadb529257effea7ef
-SHA256: ce1894998b812d1d9aa296f7e3e366b695d47b90d92250eb4e3cb76fbefb64f5
-Section: 插件
-Description: 去除app抓包检测,安装之后在设置里面开启
-Icon: https://susubaby.top/images/vpn.png
-Name: Checkproxybypass
-Sponsor: 苏苏
-
 Package: com.classickeyboardxs-susubody
 Version: 1.2
 Architecture: iphoneos-arm64
