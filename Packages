@@ -436,22 +436,6 @@ Author: 苏苏
 Icon: https://susubaby.top/images/susu.png
 Name: SuSuTools
 
-Package: com.tencent.themebox
-Version: 1.0.6-1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 5172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/主题盒子_1.0.6-2_无根.deb
-Size: 2538634
-MD5sum: 7900a908e2c5279d8ace127c5ab78125
-SHA1: 920f63fb0d9cd594adae5938e97fad5df7f3bd03
-SHA256: 8ad8d5d3e29c0c02bea2a371b4d9eba19b8830bf6dd8f6c9e9dcb46e07883dc9
-Section: Tweaks
-Description: 微信主题盒子
-Author: WeChat
-Name: 主题盒子
-
 Package: com.wrp1002.nosettingsbadge
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -548,44 +532,6 @@ Size: 6128332
 MD5sum: 0a242f12f5794caf620428c84bb14bdb
 SHA1: 36874add603c756bb8c9ed8bb11d94184854a11d
 SHA256: d959a0da17b394f193eab360cb4bd2e1992594a4ec039ef277e777c7027db2f8
-Section: 插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2Pro
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
-
-Package: xc.lzsxcl.o2pro
-Version: 13.2
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 19300
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_13.2_iphoneos-arm64.deb
-Size: 6495420
-MD5sum: 3d2180a38e930dcd26db174dbaaaf4b1
-SHA1: 4e1024f096181fd2c07551cb5e3a1e3f18224aea
-SHA256: dc5b162bbdc692505f5404ca7e46e4915b67e76e893baf27ff9e7e6f59fc54db
-Section: 插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2Pro
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
-
-Package: xc.lzsxcl.o2pro
-Version: 13.3
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 19400
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_13.3_iphoneos-arm64.deb
-Size: 6511044
-MD5sum: 1efe3aea06501c164b9c702d3130e65d
-SHA1: 2d598de2086c1cecccf0cd74248acae682ad35d2
-SHA256: 58ef7b91a37e0f0bafd950d5d64637e660691b44f51d6758ebd81918b9407792
 Section: 插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
