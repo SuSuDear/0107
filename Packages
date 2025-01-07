@@ -5,14 +5,14 @@ Maintainer: 0xkuj
 Installed-Size: 488
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.0xkuj.notificationsgroupcounts_1.0.8_iphoneos-arm64.deb
-Size: 66520
-MD5sum: be5ed127d7e22ffdd59c8d80c0da60d3
-SHA1: 13d9d23f924f90674e78f6d41d2b008f5f6ed037
-SHA256: 79d0cc7139915d0554ad348afdc3ef4365a563633dc73baeb4648fc974c6986c
+Size: 66492
+MD5sum: 4522ec9b6bd78bd1b3ffad07072a46d4
+SHA1: baf86945f2366354d71b81f3450a75bb30ec2368
+SHA256: a8fb703d62a26785f8d5ab435d44e8e966c2634ee99204a5e7e2da87f7873164
 Section: Tweaks
 Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
-Icon: https://susubaby.top/images/tongzhi.png
+Icon: https://www.susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
 Package: com.82flex.singlemute
@@ -23,13 +23,13 @@ Installed-Size: 380
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.singlemute_1.5_iphoneos-arm64.deb
 Size: 24212
-MD5sum: 2ce525526bdcf64b4d5af1aa77c16a98
-SHA1: b57aeaf72be488c72378028705afa2bd8dcade08
-SHA256: 52ab01de77eb57c8cecc957e06e226be40393be9f2184466f91466979fa1e203
+MD5sum: f12ff8dcde6775158595385460392c4b
+SHA1: f4c2aa30fc587370c96d95f168e7ecd229840c55
+SHA256: 4b14ae35a5ef5b20d69f13836bb52c2551dcdbc86222deec0a60dd8d3ee4e58c
 Section: 插件
 Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
-Icon: https://susubaby.top/images/Singlemute.png
+Icon: https://www.susubaby.top/images/Singlemute.png
 Name: Single Mute
 
 Package: com.classickeyboardxs-susubody
@@ -39,14 +39,14 @@ Maintainer: 苏苏
 Installed-Size: 1060
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.classickeyboardxs-susubody_1.2_iphoneos-arm64.deb
-Size: 233292
-MD5sum: edeb5d6a4b6259dfccf742b4068a377f
-SHA1: e264ef24ce0c26749b214a7c04b966d2c5cf759c
-SHA256: 0f40218a23722b24a77eecf2d380effe3834d11a99b0d0f4a777ec59de023535
+Size: 233552
+MD5sum: bc06b30bb164a0671f292102a2034ea0
+SHA1: aa81c483d29889283793406b6bebec90e013ac01
+SHA256: caa24069f2a323767684aa4ba5d733bbe6e252ecd061ace244743c17706293b5
 Section: 调整
 Description: 自定义键盘底部高度，地球底部高度等
 Author: Netskao
-Icon: https://susubaby.top/images/jianpan.png
+Icon: https://www.susubaby.top/images/jianpan.png
 Name: Classickeyboardxs
 Sponsor: 苏苏
 
@@ -57,10 +57,10 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1064
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
 Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
-Size: 386696
-MD5sum: 10b8ab8fbe863b3f655648bdbe45c0e9
-SHA1: 72638ada263b77c7a6f055db6348cec46e39057a
-SHA256: 709fcaf89e86f18fd0a861a6d2cd26c5553bb137319893574a8f98922eb18236
+Size: 386652
+MD5sum: 5a9502db5d60ee6e2092af17b82c8d5a
+SHA1: 6eb4177185ee35d56bf1e56c7c495a83549dbe73
+SHA256: 375d94ce72495208844ea36e5e5dde647e3a4ceb59306f17c3eef46efb513ade
 Section: 应用
 Priority: optional
 Homepage: https://creaturecoding.com/
@@ -69,7 +69,7 @@ Tag: purpose::application, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
 Dev: CreatureSurvive
-Icon: https://susubaby.top/images/tweak.png
+Icon: https://www.susubaby.top/images/tweak.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
@@ -80,14 +80,14 @@ Maintainer: fiore
 Installed-Size: 240
 Depends: mobilesubstrate
 Filename: ./debs/com.fiore.calculatorhistory_1.8_iphoneos-arm64.deb
-Size: 23268
-MD5sum: 499b8f3744a59eea2973ea9036bbf312
-SHA1: 74d233148d8e95081f5687bce3edb46cacb22707
-SHA256: 60b16544787f7d30abf4489a4db780a694980b509ca3c1f3966b7a235c5b2c45
+Size: 23276
+MD5sum: 8e390a8415058b60441c755765555aed
+SHA1: d8d30b9de8870cc241189b2dfe27b9356ad050a4
+SHA256: 299593f0c7a20700301af91df42a74248c999d30ed628d658ce908de6a9fd6f9
 Section: Tweaks
 Description: 计算器获得历史记录!
 Author: fiore
-Icon: https://susubaby.top/images/jisuanqi.png
+Icon: https://www.susubaby.top/images/jisuanqi.png
 Name: CalculatorHistory
 
 Package: com.ichitaso.hidekbsettings
