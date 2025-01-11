@@ -404,6 +404,23 @@ Author: SuSu
 Icon: https://www.susubaby.top/images/themes.png
 Name: 苏苏主题备份
 
+Package: com.susu.wcfrostedglass
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.2_iphoneos-arm64.deb
+Size: 4924
+MD5sum: 12da95a9308dd467ae27c27d99b829aa
+SHA1: 53a8c3874af5dc74e25a23a520a445bf3feb539a
+SHA256: ac956fad2704372bffd8e222bb2323d45c816ea9d929932b51456103ed9f0755
+Section: 插件
+Description: WeChat Frosted glass effect on top and bottom
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
 Package: com.susubody.latchkey
 Version: 2.3.2
 Architecture: iphoneos-arm64
