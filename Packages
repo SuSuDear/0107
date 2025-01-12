@@ -19,14 +19,14 @@ Package: com.82flex.singlemute
 Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 380
+Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.singlemute_1.5_iphoneos-arm64.deb
-Size: 24212
-MD5sum: f12ff8dcde6775158595385460392c4b
-SHA1: f4c2aa30fc587370c96d95f168e7ecd229840c55
-SHA256: 4b14ae35a5ef5b20d69f13836bb52c2551dcdbc86222deec0a60dd8d3ee4e58c
-Section: 插件
+Size: 24816
+MD5sum: a48b9614377799d79ba629270eef52ef
+SHA1: 257c0dc72e98aa931e0515366bdff632c5071ef8
+SHA256: e406ae9b3ab0f0fc1f4c6f675714d175ebc6b3bd30f7480e2a10cd2f2a8cd687
+Section: 调整
 Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
 Icon: https://www.susubaby.top/images/Singlemute.png
