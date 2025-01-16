@@ -324,18 +324,18 @@ Icon: https://www.susubaby.top/images/ziti.png
 Name: ios16原生字体 90%大小
 
 Package: com.susu.ios18batteryestimate
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 208
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.1_iphoneos-arm64.deb
-Size: 14044
-MD5sum: bc5c11d65e5a41f7cc249517c929b876
-SHA1: 2b6c16c6bb26e172f2dc456cff65e0e017e67c79
-SHA256: e04204c13c82090a20c0fe549c4e9f9a5584fdbc0adea9b99d750cc50f00f726
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.0.2_iphoneos-arm64.deb
+Size: 14808
+MD5sum: 6a9629e13dfa3670b19b00737628079e
+SHA1: 2d83994d2028fa3d60bc9a3d8e78b3c28b007336
+SHA256: 301c28f408a13720260ad7af2b6d68f8caadc91b464d4fd55b235dc53c70cd01
 Section: Tweaks
-Description: 在锁屏界面显示预计充电时间，激活过SpringAnimation的可免费使用，单独激活($6.66软妹币)
+Description: 在锁屏界面显示预计充电时间，激活过SpringAnimation的可免费使用
 Author: 苏苏
 Icon: https://www.susubaby.top/images/batteryestimate.png
 Name: iOS18BatteryEstimate
