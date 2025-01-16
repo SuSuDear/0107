@@ -374,18 +374,18 @@ Icon: https://www.susubaby.top/images/photos.png
 Name: 相册增强
 
 Package: com.susu.springanimation
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 180
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.4_iphoneos-arm64.deb
-Size: 10744
-MD5sum: 9d6d17a0e1df93ee0f48529ea4206b35
-SHA1: 168931f6bb3fe2cadbe5c1509e335db889cfb316
-SHA256: ae528087e918b513f0bf3cc10a6d2d7019b81e048849abe069ffa6375f460385
+Filename: ./debs/com.susu.springanimation_1.0.5_iphoneos-arm64.deb
+Size: 10884
+MD5sum: 3a01716e396b2bc188e3ae0304fd4c59
+SHA1: 52cdcee66a2c88142ee5cbcc6beb12a7ac452c49
+SHA256: d3e0c9072b5b17ba6b0b3ecd24fcd9f3932d637a0ab832b61124b8fd0fb12b87
 Section: 插件
-Description: 桌面交互动画，激活联系QQ:2914115314($14.99软妹币)
+Description: 桌面交互动画，激活联系QQ:2914115314(¥14.99软妹币)
 Author: 苏苏
 Icon: https://www.susubaby.top/images/springanimations.png
 Name: SpringAnimation
