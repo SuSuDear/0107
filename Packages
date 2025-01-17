@@ -289,23 +289,6 @@ Author: SuSu
 Icon: https://www.susubaby.top/images/colorful.png
 Name: 苏苏Colorful主题备份
 
-Package: com.susu.daynightswitch
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 608
-Depends: mobilesubstrate
-Filename: ./debs/com.susu.daynightswitch_1.0.5_iphoneos-arm64.deb
-Size: 93636
-MD5sum: 80f8aa4ddf8b25479ed096a2f86703ff
-SHA1: 7315db0982dbc89325a2d120ed69dc6615e37b33
-SHA256: e36540da0bbc44d1dd4444acf8b1f8e3e8de147fcf3d8a142ae0433c11a0f18e
-Section: 插件
-Description: 为您的开关添加一些风格
-Author: 苏苏
-Icon: https://www.susubaby.top/images/kaiguan.png
-Name: SuSuDayNightSwitch
-
 Package: com.susu.ios16
 Version: 1.9
 Architecture: iphoneos-arm64
