@@ -202,26 +202,6 @@ Author: PoomSmart
 Icon: https://www.susubaby.top/images/smoothcursor.png
 Name: SmoothCursor (iOS 13+)
 
-Package: com.skypain.ccrespring
-Version: 1.1.0-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 164
-Depends: com.opa334.ccsupport
-Filename: ./debs/com.skypain.ccrespring_1.1.0-2_iphoneos-arm64.deb
-Size: 13120
-MD5sum: f1c63389410eaed340d7296d033c75e0
-SHA1: 5d4838a130b3cc025e157ec6d24bb90f167c7f72
-SHA256: 610fe2b2aca2b5f2a5b0382c7a3a2bfcd265685d8961936096dfcdc804a7974f
-Section: 插件
-Homepage: https://skypain.github.io/repo/
-Description: 控制中心注销模块
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
-Icon: https://skypain.github.io/repo/src/ccrespring/Icon.png
-Name: CCRespring
-Sileodepiction: https://skypain.github.io/repo/src/ccrespring/config/sileo/depiction.json
-
 Package: com.spos
 Version: 8.5.52
 Architecture: iphoneos-arm64
