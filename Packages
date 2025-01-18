@@ -341,6 +341,26 @@ Author: 苏苏
 Icon: https://www.susubaby.top//images/luping.png
 Name: 灵动岛动态录屏
 
+Package: com.susu.nopreferencetips
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5), preferenceloader
+Filename: ./debs/com.susu.nopreferencetips_1.0.1_iphoneos-arm64.deb
+Size: 4474
+MD5sum: 9b0e484f6bd5507b98f245df80918f01
+SHA1: 92b9102a512fee2290b475c36cede94c2ea947ea
+SHA256: 16cc1d4ceb3208f7b12f9f358633085b1333f8c4dac4eec73645d47812aee7ae
+Section: 调整
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 修复“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: susu
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
 Package: com.susu.photos
 Version: 1.0
 Architecture: iphoneos-arm64
