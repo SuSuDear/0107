@@ -391,6 +391,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/springanimations.png
 Name: SpringAnimation
 
+Package: com.susu.springanimation
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 180
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.springanimation_1.0.6_iphoneos-arm64.deb
+Size: 10828
+MD5sum: c7507332802582941a8e61339369a264
+SHA1: e192fe7f63d1bb67b31d297a83c9ccb3ca57ae3a
+SHA256: 24760f61f0205efbbade48f155f41892aee249d05fac033be87c69f88bd28f19
+Section: 插件
+Description: 桌面交互动画，激活联系QQ:2914115314(¥14.99软妹币)
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
 Package: com.susu.storeswitcher2
 Version: 1.0.7
 Architecture: iphoneos-arm64
