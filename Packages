@@ -330,10 +330,10 @@ Maintainer: 苏苏
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
 Filename: ./debs/com.susu.ios18batteryestimate_1.0.3_iphoneos-arm64.deb
-Size: 24572
-MD5sum: b8166e9c127f8bb6bf4e8e6a241cd1ff
-SHA1: a52d0d95ac8e15d5abbd237e523d1d5b4c163c4a
-SHA256: e3b7cbc09d7c1237856315924b7aed27aace8d1f6bc65856a49f289e4bb609ce
+Size: 24548
+MD5sum: a0fc04fc0011c5d57944192dd0930b04
+SHA1: cfc59ebdd5a6d222695f437db31775cda54f7f06
+SHA256: abcb302c7b46dac80d6f4a00650f13e82840e85b0eb1f4f32de600117e4748cb
 Section: 调整
 Description: 在锁屏界面显示预计充电时间
 Author: 苏苏
@@ -398,10 +398,10 @@ Maintainer: 苏苏
 Installed-Size: 180
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.springanimation_1.0.6_iphoneos-arm64.deb
-Size: 10828
-MD5sum: c7507332802582941a8e61339369a264
-SHA1: e192fe7f63d1bb67b31d297a83c9ccb3ca57ae3a
-SHA256: 24760f61f0205efbbade48f155f41892aee249d05fac033be87c69f88bd28f19
+Size: 10908
+MD5sum: c949b5ba8ea4516d150f2001449470aa
+SHA1: 83357d6d4110b28fbe060bcbc1afb8ae1d8da88d
+SHA256: ef8457981d82caaab5f26ff4cceb9c093e017ce9456e7ad4d6edf9f89f475ec7
 Section: 插件
 Description: 桌面交互动画，激活联系QQ:2914115314(¥14.99软妹币)
 Author: 苏苏
