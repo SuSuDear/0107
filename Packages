@@ -494,23 +494,6 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/susu.png
 Name: SuSuTools
 
-Package: com.wrp1002.nosettingsbadge
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: Wes <wes.hamster@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64.deb
-Size: 4560
-MD5sum: fcd2807c58de2277388d3654f211072e
-SHA1: 34aa13275de61b75ec45a6d72b0fa3e78233800b
-SHA256: 9d6ad5cb9a1bc9378121adbc2403cb9fda820b616e5c47cad201a28176487d69
-Section: 调整
-Description: 删除设置通知徽章！
-Author: Wes <wes.hamster@gmail.com>
-Icon: https://www.susubaby.top/images/Preferences.png
-Name: NoSettingsBadge
-
 Package: com.yourepo.0xash.fixrepairsystempower
 Version: 0.0.1
 Architecture: iphoneos-arm64
