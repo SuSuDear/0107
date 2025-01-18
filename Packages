@@ -341,6 +341,24 @@ Icon: https://www.susubaby.top/images/batteryestimate.png
 Name: iOS18BatteryEstimate
 Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
 
+Package: com.susu.ios18batteryestimate
+Version: 1.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.0.3-1_iphoneos-arm64.deb
+Size: 24400
+MD5sum: 4ef420aa6473a381f1331c43a06ac102
+SHA1: 2bb9b8e39a29e620945f828b6b38836181bbf7a6
+SHA256: 5971cf2139c9153fddb17f3fe8d5cca61abfa06684e1a8ca545f899957f2e473
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
 Package: com.susu.luping
 Version: 1.0.1
 Architecture: iphoneos-arm64
