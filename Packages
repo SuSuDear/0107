@@ -259,21 +259,6 @@ Author: PoomSmart
 Icon: https://www.susubaby.top/images/camera.png
 Name: 录像暂停 RecordPause
 
-Package: com.susu.battery
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.susu.battery_1.0_iphoneos-arm64.deb
-Size: 7280
-MD5sum: 5c5f7d901eb88a5f1b489be9f92055f3
-SHA1: 0760dccf81d39abc43e2e3e52e96b067d3eef548
-SHA256: cb2f6ef2f73ace0a1454b020aad90a991c99e4a080a9177ad9c96f3b4738be2d
-Section: 系统
-Description: 用于修复更换三方电池后 设置中该死的提示 当前插件可以修复设置中为原装显示状态
-Icon: https://www.susubaby.top/images/dianchi.png
-Name: BatteryRepair
-
 Package: com.susu.colorful
 Version: 1.0.0
 Architecture: iphoneos-arm64
