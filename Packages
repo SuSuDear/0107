@@ -307,41 +307,6 @@ Icon: https://www.susubaby.top/images/ziti.png
 Name: ios16原生字体 90%大小
 
 Package: com.susu.ios18batteryestimate
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 208
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.2_iphoneos-arm64.deb
-Size: 14808
-MD5sum: 6a9629e13dfa3670b19b00737628079e
-SHA1: 2d83994d2028fa3d60bc9a3d8e78b3c28b007336
-SHA256: 301c28f408a13720260ad7af2b6d68f8caadc91b464d4fd55b235dc53c70cd01
-Section: Tweaks
-Description: 在锁屏界面显示预计充电时间，激活过SpringAnimation的可免费使用
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-
-Package: com.susu.ios18batteryestimate
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.3_iphoneos-arm64.deb
-Size: 24548
-MD5sum: a0fc04fc0011c5d57944192dd0930b04
-SHA1: cfc59ebdd5a6d222695f437db31775cda54f7f06
-SHA256: abcb302c7b46dac80d6f4a00650f13e82840e85b0eb1f4f32de600117e4748cb
-Section: 调整
-Description: 在锁屏界面显示预计充电时间
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
-
-Package: com.susu.ios18batteryestimate
 Version: 1.0.3-1
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
@@ -391,23 +356,6 @@ Section: 系统
 Author: 苏苏
 Icon: https://www.susubaby.top/images/photos.png
 Name: 相册增强
-
-Package: com.susu.springanimation
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 180
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.5_iphoneos-arm64.deb
-Size: 10884
-MD5sum: 3a01716e396b2bc188e3ae0304fd4c59
-SHA1: 52cdcee66a2c88142ee5cbcc6beb12a7ac452c49
-SHA256: d3e0c9072b5b17ba6b0b3ecd24fcd9f3932d637a0ab832b61124b8fd0fb12b87
-Section: 插件
-Description: 桌面交互动画，激活联系QQ:2914115314(¥14.99软妹币)
-Author: 苏苏
-Icon: https://www.susubaby.top/images/springanimations.png
-Name: SpringAnimation
 
 Package: com.susu.springanimation
 Version: 1.0.6
