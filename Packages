@@ -275,13 +275,13 @@ Package: com.susu.ios18batteryestimate
 Version: 1.0.3-1
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
-Installed-Size: 264
+Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
 Filename: ./debs/com.susu.ios18batteryestimate_1.0.3-1_iphoneos-arm64.deb
-Size: 24400
-MD5sum: 4ef420aa6473a381f1331c43a06ac102
-SHA1: 2bb9b8e39a29e620945f828b6b38836181bbf7a6
-SHA256: 5971cf2139c9153fddb17f3fe8d5cca61abfa06684e1a8ca545f899957f2e473
+Size: 16570
+MD5sum: a577be1d7135a0de2424b2a07b58bec4
+SHA1: 064baba619b3728ffa91e154a058ccee63ba70ad
+SHA256: f21bb1d455ac7ccb903406f05a0368a8bf844a3dd4c03041b01efdc75757799f
 Section: 调整
 Description: 在锁屏界面显示预计充电时间
 Author: 苏苏
@@ -347,6 +347,27 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/Preferences.png
 Name: NoPreferencesTips
 
+Package: com.susu.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.nopreferencetips_1.0.4_iphoneos-arm64.deb
+Size: 5386
+MD5sum: b9e7e36b4800edff79ce0540e800e81d
+SHA1: d6a55d46e3233007838ecdb4e13a13914f580f89
+SHA256: f5830ad34a7c4b1e63cd2af2dac0d8da13d949481b56dfb145fd9d704592003d
+Section: 调整
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 支持 iOS15-iOS16
+   * 移除“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
 Package: com.susu.photos
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -374,6 +395,23 @@ Size: 10908
 MD5sum: c949b5ba8ea4516d150f2001449470aa
 SHA1: 83357d6d4110b28fbe060bcbc1afb8ae1d8da88d
 SHA256: ef8457981d82caaab5f26ff4cceb9c093e017ce9456e7ad4d6edf9f89f475ec7
+Section: 插件
+Description: 桌面交互动画，激活联系QQ:2914115314(¥14.99软妹币)
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
+Package: com.susu.springanimation
+Version: 1.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.springanimation_1.0.6-1_iphoneos-arm64.deb
+Size: 7768
+MD5sum: 84a064699c80521dd74c5053bd77550d
+SHA1: cc843859051eb2e12ac98877c3ffccc2444d1081
+SHA256: 785e76e989123292a2ee8bec4cac59f9ecff1373def4dbd57a64d8ff99f519f3
 Section: 插件
 Description: 桌面交互动画，激活联系QQ:2914115314(¥14.99软妹币)
 Author: 苏苏
