@@ -289,6 +289,24 @@ Icon: https://www.susubaby.top/images/batteryestimate.png
 Name: iOS18BatteryEstimate
 Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
 
+Package: com.susu.ios18batteryestimate
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.0.4_iphoneos-arm64.deb
+Size: 16536
+MD5sum: 528cad2e61e5d2a91963863bd8cd83d7
+SHA1: b21838a91a99d803dd59fe0a8f1ca90d4f30dc79
+SHA256: b1d389439d9dace7c35cbe391a1ac4532634786c02373c156becf7781f967c3b
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
 Package: com.susu.luping
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -495,6 +513,23 @@ Size: 5380
 MD5sum: 418ff1769b2ce0c41bcfe40f863a7c3b
 SHA1: 3e84da534c05615d3f90f3230d916cb3551cce9a
 SHA256: cbe081e412353a71bf4da6389d783030c860b93c338138f77ba6786ac26e4504
+Section: 插件
+Description: WeChat Frosted glass effect on top and bottom
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
+Package: com.susu.wcfrostedglass
+Version: 1.0.4-2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.4-2_iphoneos-arm64.deb
+Size: 4362
+MD5sum: ca9b9371400a943208effbe42c0f2fea
+SHA1: 049d88db5ac8089d383c8eaa7d662bf6177c2491
+SHA256: e2cb6017ebf42696dc1f4948c649555211f8ed68aceac37679da4d0e1a69fd4c
 Section: 插件
 Description: WeChat Frosted glass effect on top and bottom
 Author: 苏苏
