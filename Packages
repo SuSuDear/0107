@@ -402,6 +402,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/photos.png
 Name: 相册增强
 
+Package: com.susu.powermenu
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.powermenu_1.0.3_iphoneos-arm64.deb
+Size: 33638
+MD5sum: efcd9ac4a0dce327b0940e8349c8682e
+SHA1: 7a7f09129143b8c5caa273ba6c30fc4c9b2faa72
+SHA256: 40f58503af74e60486e955dcb95cd4409762489dff6a6764a8b73939423e2861
+Section: Control Center (Modules)
+Description: Control device power options from Control Center
+Author: 苏苏
+Icon: https://www.susubaby.top/images/powermenu.png
+Name: PowerMenu
+
 Package: com.susu.springanimation
 Version: 1.0.6
 Architecture: iphoneos-arm64
