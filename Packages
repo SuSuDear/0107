@@ -454,6 +454,24 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.reachplayer
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 708
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_2.8_iphoneos-arm64.deb
+Size: 181318
+MD5sum: b70b1f6721f03ab7dca8ec79a1b3a45e
+SHA1: d42df169115f11cd7cee832691e59b3b7f9c94d4
+SHA256: f84400405845f27d2b013a67fba6fe23e87f26edfa67f9ebc9edd809cb3eec7e
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑,仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
 Package: com.susu.springanimation
 Version: 1.0.6
 Architecture: iphoneos-arm64
