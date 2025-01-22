@@ -90,28 +90,6 @@ Author: fiore
 Icon: https://www.susubaby.top/images/jisuanqi.png
 Name: CalculatorHistory
 
-Package: com.ichitaso.hidekbsettings
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 428
-Pre-Depends: firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64.deb
-Size: 41024
-MD5sum: c480acb0c42097cc8052b2cc528ee7c9
-SHA1: 2a9c9b6eeca3c1589cb20e7386ad0520cb2d29af
-SHA256: 53581e15a1a4c657d18ac83a9c5c29daab1bc06f7760ee533d0f53e7dbcfa2bc
-Section: 调整
-Homepage: https://ichitaso.com/
-Description: Hide "Keyboard Settings" from the globe button switcher
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
-Author: ichitaso <willfeeltips+hks@gmail.com>
-Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
-Dev: ichitaso
-Icon: https://www.susubaby.top/images/HidekBSettings.png
-Name: HideKBSettings (iOS 11 to 16)
-
 Package: com.julioverne.spotilife
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -253,6 +231,23 @@ Description: Colorful主题
 Author: SuSu
 Icon: https://www.susubaby.top/images/colorful.png
 Name: 苏苏Colorful主题备份
+
+Package: com.susu.hidekbsettings
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 404
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.hidekbsettings_1.0.7_iphoneos-arm64.deb
+Size: 24548
+MD5sum: 4a6b19ca8216450c6c9942528580e71d
+SHA1: b5c7621849812a8cdd85184041de937ccd8d8b44
+SHA256: 0c60227659b7e27f3f77688c3e0178925227343a71ff522eda464984076f337e
+Section: 插件
+Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
+Icon: https://www.susubaby.top/images/HidekBSettings.png
+Name: HideKBSettings
 
 Package: com.susu.ios16
 Version: 1.9
