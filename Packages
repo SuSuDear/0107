@@ -232,6 +232,23 @@ Author: SuSu
 Icon: https://www.susubaby.top/images/colorful.png
 Name: 苏苏Colorful主题备份
 
+Package: com.susu.fuckwechatads
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64.deb
+Size: 16856
+MD5sum: 2cf57c07d9ca4d68cb76d26fea7fbb37
+SHA1: 001c0120821de07eff93ed7626107320c49b0725
+SHA256: c63d71774f3f0d4f052be7703f77f0479ec08cd66ac9aca880f03933c17f5f64
+Section: 插件
+Description: No WeChatAds
+Author: susu
+Icon: https://www.susubaby.top/images/wechat.png
+Name: FuckWeChatAds
+
 Package: com.susu.hidekbsettings
 Version: 1.0.7
 Architecture: iphoneos-arm64
