@@ -121,29 +121,6 @@ Author: level3tjg
 Icon: https://www.susubaby.top/images/spotify.png
 Name: Sposify Fix
 
-Package: com.nahtedetihw.reachplayer-rootless
-Version: 2.6
-Architecture: iphoneos-arm64
-Maintainer: ETHN <ethanwhited2208@gmail.com>
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/com.nahtedetihw.reachplayer-rootless_2.6_iphoneos-arm64.deb
-Size: 117472
-MD5sum: 654248845a2f09bb1cb985f6e72be3dc
-SHA1: 05e0d2a8f08320f8a87e9c80eb2cd5d70eece5a2
-SHA256: 06d30ebeba0a7105ceee0a1c826a49134e36a3b3a25f0256235eb9a06b3e78f5
-Section: 插件
-Homepage: https://nahtedetihw.github.io
-Description: Now Playing info in Reachability Window!
-Tag: role::enduser
-Author: ETHN <ethanwhited2208@gmail.com>
-Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.reachplayer-rootless.html
-Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.reachplayer-rootless/icon.png
-Moderndepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.reachplayer-rootless.json
-Name: ReachPlayer快捷访问音乐专辑
-Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.reachplayer-rootless.json
-Someotherentrytocontrol: True
-Tags: compatible_min::ios13.0, compatible_max::ios16.4
-
 Package: com.ps.apppad.susu
 Version: 1.1.4
 Architecture: iphoneos-arm64
