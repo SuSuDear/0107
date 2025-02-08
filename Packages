@@ -602,20 +602,20 @@ Icon: https://www.susubaby.top/images/appstore.png
 Name: StoreSwitcher2
 
 Package: com.susu.suawemehook
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Installed-Size: 236
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.1_iphoneos-arm64.deb
-Size: 20224
-MD5sum: ee3e8991a14ee87d357248057d4d8321
-SHA1: 40ee688cd2afd17e58b50aba72317921c6e9bc6d
-SHA256: fc655904b95c79ae88bab2bfc8daa99df5b1f5b63cdfe7f51326219452fc37e2
+Filename: ./debs/com.susu.suawemehook_1.2_iphoneos-arm64.deb
+Size: 20268
+MD5sum: ed95667f0038353475753e19339b6c43
+SHA1: 8893da4ca5a7111662fd0b8605a9425f0e59f043
+SHA256: 2fdec37056a3d5581f5c2fb114299a098da3c63e52dd6c729c84ac2c2dccf37d
 Section: Tweaks
 Priority: optional
 Description: 仅供学习交流
 Author: susu
-Ivcon: https://www.susubaby.top/images/douyin.png
+Icon: https://www.susubaby.top/images/douyin.png
 Name: SuAwemeHook
 
 Package: com.susu.talkatone
