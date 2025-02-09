@@ -651,6 +651,23 @@ Author: susu
 Icon: https://www.susubaby.top/images/douyin.png
 Name: SuAwemeHook
 
+Package: com.susu.suxhshook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.suxhshook_1.0_iphoneos-arm64.deb
+Size: 12174
+MD5sum: 3400390ddad0208e8b1271a2fc2c5ddd
+SHA1: 25f4b363298ce58c8f25b09be0ccab23b66299f8
+SHA256: 113cc2d49708580ad15ce711ff74eab353def113562c405433a958cd18197f33
+Section: 插件
+Description: 小红书调整，关于页面双击版本号启用。原xhsplus
+Author: susu
+Icon: https://www.susubaby.top/images/xhs.png
+Name: SuXHSHook
+
 Package: com.susu.talkatone
 Version: 1.0.1
 Architecture: iphoneos-arm64
