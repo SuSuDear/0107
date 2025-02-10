@@ -651,6 +651,23 @@ Author: susu
 Icon: https://www.susubaby.top/images/douyin.png
 Name: SuAwemeHook
 
+Package: com.susu.suawemehook
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-2_iphoneos-arm64.deb
+Size: 20922
+MD5sum: 178cb403429e0265078bdb6a538030f1
+SHA1: b4cbc40cfc139973836235196afb4af56bec4709
+SHA256: bf13253f4024f4277ca3988fc519b6031592baa5eaba8f47b1bf3758d38e1052
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Name: SuAwemeHook
+
 Package: com.susu.suxhshook
 Version: 1.0
 Architecture: iphoneos-arm64
