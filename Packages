@@ -121,6 +121,23 @@ Author: level3tjg
 Icon: https://www.susubaby.top/images/spotify.png
 Name: Sposify Fix
 
+Package: com.muirey03.cr4shed
+Version: 4.3.2
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 2488
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debs/com.muirey03.cr4shed_4.3.2_iphoneos-arm64.deb
+Size: 228780
+MD5sum: 30cff024e7e1abc9b424aa7c5f4d4209
+SHA1: 9014f4ee066a9d64238f39a796221f7e9eefb445
+SHA256: 32915f874a32cba8941a9da78f1dc184d106ee255d9a05055effc3bf92b5bcfe
+Section: Tweaks
+Description: 系统崩溃报告器
+Author: Muirey03
+Icon: https://www.susubaby.top/images/cr4shed.png
+Name: Cr4shed
+
 Package: com.ps.apppad.susu
 Version: 1.1.4
 Architecture: iphoneos-arm64
