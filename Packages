@@ -435,6 +435,24 @@ Icon: https://www.susubaby.top/images/batteryestimate.png
 Name: iOS18BatteryEstimate
 Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
 
+Package: com.susu.ios18batteryestimate
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.0.9_iphoneos-arm6.deb
+Size: 19614
+MD5sum: 26d32f5c494704c2ec5ba414ab44e868
+SHA1: 2353156a16a3e9dcd7581445e8f3dcd04f00dc04
+SHA256: 84e2b30471213483a9117a90480dd541799f7fcbe6d35ce5f2cb8d3eff881502
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
 Package: com.susu.luping
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -698,6 +716,23 @@ Size: 5830
 MD5sum: 5b7e9faf2afcc9e8700d2ba1401f7f97
 SHA1: 7b56b673d9beb986fa729e3c9e2d9c8638276ab2
 SHA256: dd8d36662dbd8396cf34e5380f381a3ef654e0c7d167664f1e32c0bdae5870ce
+Section: 插件
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
+Package: com.susu.springanimation
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.springanimation_1.0.9_iphoneos-arm64.deb
+Size: 6568
+MD5sum: c2110019e83d4c7b2cd90c12ca76ab86
+SHA1: ae9ef036ba3fe6466971c4851963837f11b77e8b
+SHA256: ec436f830e915ffda15bbede674a0f678166c65c020ad24acd3497f4490161f1
 Section: 插件
 Description: 桌面交互动画，仅自用
 Author: 苏苏
