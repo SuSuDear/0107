@@ -327,6 +327,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/ziti.png
 Name: ios16原生字体 90%大小
 
+Package: com.susu.ios16
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susu.ios16_2.2_iphoneos-arm64.deb
+Size: 83324304
+MD5sum: 5b6f5d0393c6e3f7c999c3e7fd975097
+SHA1: 8aa524364f5e4f8ca7a1f19a69eb1032040646a6
+SHA256: 31c81726212d09e6b79c87e0bdce4ea8ee5b88e57e530be885d23e3a24fcf219
+Section: 字体
+Description: 苏苏提取ios16原生字体，修改为90%大小，使用前请先挂载！
+Author: 苏苏
+Icon: https://www.susubaby.top/images/ziti.png
+Name: ios16原生字体 90%大小
+
 Package: com.susu.ios18batteryestimate
 Version: 1.0.3-1
 Architecture: iphoneos-arm64
