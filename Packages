@@ -327,160 +327,17 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/ziti.png
 Name: ios16原生字体 90%大小
 
-Package: com.susu.ios16
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 712
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/com.susu.ios16_2.2_iphoneos-arm64.deb
-Size: 83324304
-MD5sum: 5b6f5d0393c6e3f7c999c3e7fd975097
-SHA1: 8aa524364f5e4f8ca7a1f19a69eb1032040646a6
-SHA256: 31c81726212d09e6b79c87e0bdce4ea8ee5b88e57e530be885d23e3a24fcf219
-Section: 字体
-Description: 苏苏提取ios16原生字体，修改为90%大小，使用前请先挂载！
-Author: 苏苏
-Icon: https://www.susubaby.top/images/ziti.png
-Name: ios16原生字体 90%大小
-
 Package: com.susu.ios18batteryestimate
-Version: 1.0.3-1
+Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
-Installed-Size: 204
+Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.3-1_iphoneos-arm64.deb
-Size: 16570
-MD5sum: a577be1d7135a0de2424b2a07b58bec4
-SHA1: 064baba619b3728ffa91e154a058ccee63ba70ad
-SHA256: f21bb1d455ac7ccb903406f05a0368a8bf844a3dd4c03041b01efdc75757799f
-Section: 调整
-Description: 在锁屏界面显示预计充电时间
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
-
-Package: com.susu.ios18batteryestimate
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.4_iphoneos-arm64.deb
-Size: 16536
-MD5sum: 528cad2e61e5d2a91963863bd8cd83d7
-SHA1: b21838a91a99d803dd59fe0a8f1ca90d4f30dc79
-SHA256: b1d389439d9dace7c35cbe391a1ac4532634786c02373c156becf7781f967c3b
-Section: 调整
-Description: 在锁屏界面显示预计充电时间
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
-
-Package: com.susu.ios18batteryestimate
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.5_iphoneos-arm64.deb
-Size: 16736
-MD5sum: c69c76dba268189a20631c5450f2c6dd
-SHA1: 13f7ba0c8db6d1d8867cbd04c2ac799a03f46a9e
-SHA256: 451895ac4daa2a980b5846602a8b55772a09eda96762cf9f48942dc3f79e1931
-Section: 调整
-Description: 在锁屏界面显示预计充电时间
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
-
-Package: com.susu.ios18batteryestimate
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.6_iphoneos-arm64.deb
-Size: 17278
-MD5sum: 06e243f23ff7bb05c05f4bdddd83ba1c
-SHA1: 9d9d3fddb9798c3e8ad813c20dd47b90bd9cd661
-SHA256: ec3f1f1bfdad213340e3cb2f54639ee05ae1f67fc44eca47678dd5ae18b5f71c
-Section: 调整
-Description: 在锁屏界面显示预计充电时间
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
-
-Package: com.susu.ios18batteryestimate
-Version: 1.0.7
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.7_iphoneos-arm64.deb
-Size: 17372
-MD5sum: d5233532e86985a4ff612a3f553e0ed2
-SHA1: 05455077804d4f44c1605cc6327cc2f2a0967393
-SHA256: cb4b64b9a29e1085b17052da5bf3f1e5032dbaf59a117653dbf576c70e1dca8f
-Section: 调整
-Description: 在锁屏界面显示预计充电时间
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
-
-Package: com.susu.ios18batteryestimate
-Version: 1.0.8
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.8_iphoneos-arm6.deb
-Size: 19008
-MD5sum: dc5d6ab04d9473b21bc8bff7fc072a98
-SHA1: e629eaf6cb7aba384b6d01cb3407e741a0c53ee2
-SHA256: a1898d5bc563850f81753f4b1247839fb5516cfd6104ebe5063b86e767a23f0b
-Section: 调整
-Description: 在锁屏界面显示预计充电时间
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
-
-Package: com.susu.ios18batteryestimate
-Version: 1.0.9
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.0.9_iphoneos-arm6.deb
-Size: 19614
-MD5sum: 26d32f5c494704c2ec5ba414ab44e868
-SHA1: 2353156a16a3e9dcd7581445e8f3dcd04f00dc04
-SHA256: 84e2b30471213483a9117a90480dd541799f7fcbe6d35ce5f2cb8d3eff881502
-Section: 调整
-Description: 在锁屏界面显示预计充电时间
-Author: 苏苏
-Icon: https://www.susubaby.top/images/batteryestimate.png
-Name: iOS18BatteryEstimate
-Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
-
-Package: com.susu.ios18batteryestimate
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 236
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.1.0_iphoneos-arm64.deb
-Size: 26662
-MD5sum: 76510d319061e2aa0a756c769fb478be
-SHA1: e40b3441225e36af27e6e546bf901ef8d3802a8b
-SHA256: 28693d20b6d61030908e498978d36791e50eb8102ea73afc577b1e219b71800e
+Filename: ./debs/com.susu.ios18batteryestimate_1.1.1_iphoneos-arm64.deb
+Size: 37364
+MD5sum: 64b4fead481a2d6ae87d9929dc54e1e0
+SHA1: 0c9d665b566bce64885f29aa31b99e7cc024139e
+SHA256: c0b6ea0b00611db1346873400a10cd449f2715281d7c099c215afd535e02a4ce
 Section: 调整
 Description: 在锁屏界面显示预计充电时间
 Author: 苏苏
@@ -618,70 +475,16 @@ Icon: https://www.susubaby.top/images/powermenu.png
 Name: PowerMenu
 
 Package: com.susu.reachplayer
-Version: 2.8
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 708
-Depends: mobilesubstrate
-Filename: ./debs/com.susu.reachplayer_2.8_iphoneos-arm64.deb
-Size: 181318
-MD5sum: b70b1f6721f03ab7dca8ec79a1b3a45e
-SHA1: d42df169115f11cd7cee832691e59b3b7f9c94d4
-SHA256: f84400405845f27d2b013a67fba6fe23e87f26edfa67f9ebc9edd809cb3eec7e
-Section: 插件
-Description: ReachPlayer便捷访问音乐专辑,仅自用
-Author: 苏苏
-Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
-Name: ReachPlayer音乐专辑
-Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
-
-Package: com.susu.reachplayer
-Version: 2.9
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 708
-Depends: mobilesubstrate
-Filename: ./debs/com.susu.reachplayer_2.9_iphoneos-arm64.deb
-Size: 181304
-MD5sum: f5890904652bc0391662b263f1bbc217
-SHA1: 7ac4438a492bd3ba3a068ce270de50f32db5d512
-SHA256: 9a6077776df0201377d813602ca8af4b7311e7104dd9e1c20b6b39ba673a3266
-Section: 插件
-Description: ReachPlayer便捷访问音乐专辑,仅自用
-Author: 苏苏
-Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
-Name: ReachPlayer音乐专辑
-Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
-
-Package: com.susu.reachplayer
-Version: 3.0
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 712
-Depends: mobilesubstrate
-Filename: ./debs/com.susu.reachplayer_3.0_iphoneos-arm64.deb
-Size: 181660
-MD5sum: 849470f6a0340ff39f1c76bdfd1dfa23
-SHA1: d0367e9964def3fc7b1b93ad53f9474664a91fdb
-SHA256: f4003e3dc01a01fc5b6f210ad77c9734609287b7138d669cb10736020101e4f7
-Section: 插件
-Description: ReachPlayer便捷访问音乐专辑,仅自用
-Author: 苏苏
-Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
-Name: ReachPlayer音乐专辑
-Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
-
-Package: com.susu.reachplayer
-Version: 3.1
+Version: 3.3
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 716
 Depends: mobilesubstrate
-Filename: ./debs/com.susu.reachplayer_3.1_iphoneos-arm64.deb
-Size: 182698
-MD5sum: f581e0965a9fa4e1ef01cf88e4929cae
-SHA1: f80e94316094b321ae7c5e4c68c91c1985632165
-SHA256: 79630d577bb8f137cda99202d08179deed9b445c0ece8218816efd0de5547abb
+Filename: ./debs/com.susu.reachplayer_3.3_iphoneos-arm64.deb
+Size: 186152
+MD5sum: bda4ee02fc4c21eb723fd7f27d6abda7
+SHA1: 43a49eab66be3e7b242459ec9e0145294d11fc76
+SHA256: b9ee703b433f5ba6788ff0268f048f8ac5a074b33a3778de5121c11ddc80fe35
 Section: 插件
 Description: ReachPlayer便捷访问音乐专辑,仅自用
 Author: 苏苏
@@ -690,84 +493,16 @@ Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
 Package: com.susu.springanimation
-Version: 1.0.6
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
-Installed-Size: 180
+Installed-Size: 232
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.6_iphoneos-arm64.deb
-Size: 10908
-MD5sum: c949b5ba8ea4516d150f2001449470aa
-SHA1: 83357d6d4110b28fbe060bcbc1afb8ae1d8da88d
-SHA256: ef8457981d82caaab5f26ff4cceb9c093e017ce9456e7ad4d6edf9f89f475ec7
-Section: 插件
-Description: 桌面交互动画，激活联系QQ:2914115314(¥14.99软妹币)
-Author: 苏苏
-Icon: https://www.susubaby.top/images/springanimations.png
-Name: SuSuAnimation
-
-Package: com.susu.springanimation
-Version: 1.0.6-1
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.6-1_iphoneos-arm64.deb
-Size: 7768
-MD5sum: 84a064699c80521dd74c5053bd77550d
-SHA1: cc843859051eb2e12ac98877c3ffccc2444d1081
-SHA256: 785e76e989123292a2ee8bec4cac59f9ecff1373def4dbd57a64d8ff99f519f3
-Section: 插件
-Description: 桌面交互动画，激活联系QQ:2914115314(¥14.99软妹币)
-Author: 苏苏
-Icon: https://www.susubaby.top/images/springanimations.png
-Name: SuSuAnimation
-
-Package: com.susu.springanimation
-Version: 1.0.7
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.7_iphoneos-arm64.deb
-Size: 7820
-MD5sum: 2c1bd9e0c6905c4d929853e68f50de41
-SHA1: 494fa24dbe045343971f25d49bfc97da9e9fc6e1
-SHA256: 5c35bb1e3063487b2322daa259eed437f8169961ed7de4f0a35a4933a1c1a19a
-Section: 插件
-Description: 桌面交互动画，仅自用
-Author: 苏苏
-Icon: https://www.susubaby.top/images/springanimations.png
-Name: SuSuAnimation
-
-Package: com.susu.springanimation
-Version: 1.0.8
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.8_iphoneos-arm64.deb
-Size: 5830
-MD5sum: 5b7e9faf2afcc9e8700d2ba1401f7f97
-SHA1: 7b56b673d9beb986fa729e3c9e2d9c8638276ab2
-SHA256: dd8d36662dbd8396cf34e5380f381a3ef654e0c7d167664f1e32c0bdae5870ce
-Section: 插件
-Description: 桌面交互动画，仅自用
-Author: 苏苏
-Icon: https://www.susubaby.top/images/springanimations.png
-Name: SuSuAnimation
-
-Package: com.susu.springanimation
-Version: 1.0.9
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.9_iphoneos-arm64.deb
-Size: 6568
-MD5sum: c2110019e83d4c7b2cd90c12ca76ab86
-SHA1: ae9ef036ba3fe6466971c4851963837f11b77e8b
-SHA256: ec436f830e915ffda15bbede674a0f678166c65c020ad24acd3497f4490161f1
+Filename: ./debs/com.susu.springanimation_1.1.0_iphoneos-arm64.deb
+Size: 17596
+MD5sum: a0dc4cf54041443793b5ebf4ca608ac4
+SHA1: 7542d1ff3f6b1a3556fc29c40531155f47fb6188
+SHA256: ff5b6eb847faee1d23dabef79bbe8814e24dcaef7d6ef3dc8ca4173302ad40c4
 Section: 插件
 Description: 桌面交互动画，仅自用
 Author: 苏苏
