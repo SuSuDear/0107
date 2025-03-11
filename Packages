@@ -386,11 +386,29 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 336
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.ios18batteryestimate_1.1.3_iphoneos-arm6.deb
+Filename: ./debs/com.susu.ios18batteryestimate_1.1.3_iphoneos-arm64.deb
 Size: 44878
 MD5sum: d9083449d1ea4f76395fff125ada2e26
 SHA1: 41775a606929c3148d62933d876f50d9461cba0c
 SHA256: b917ff0347896df7576faeaf2da779ec9840150ecf27fc48f1eef0c4c87bad71
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
+Package: com.susu.ios18batteryestimate
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.1.4_iphoneos-arm64.deb
+Size: 49204
+MD5sum: 7c6efe3460a1c649c0d1f9a166a64e4d
+SHA1: aebded77e67b8cf977b12c07a193de25f887a144
+SHA256: d2818e186043c05d591da337a5d2353fc12260e214e575760bd7f2e3cfc7ed11
 Section: 调整
 Description: 在锁屏界面显示预计充电时间
 Author: 苏苏
