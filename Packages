@@ -624,10 +624,10 @@ Maintainer: 苏苏
 Installed-Size: 1412
 Depends: mobilesubstrate
 Filename: ./debs/com.susu.reachplayer_3.7_iphoneos-arm64.deb
-Size: 819942
-MD5sum: 4d734ee5d3361e6c1b3854ec987cbd0d
-SHA1: 6b8ea85b79717cb1decf3ac7543bf7c552ca683a
-SHA256: 3ddafc975a6b48810963b0835ee1acf739f0d30e914a5b6741221a0157621d5f
+Size: 819624
+MD5sum: 3a57a9a5ad60901203470e41b406f28b
+SHA1: 31b820b8807d30605afec93b22be15345b15e96b
+SHA256: 0cdef75a92f573e80c4c9bc4bc48876ef3f4beac087818a83867864215af052d
 Section: 插件
 Description: ReachPlayer便捷访问音乐专辑,仅自用
 Author: 苏苏
