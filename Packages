@@ -563,6 +563,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/powermenu.png
 Name: PowerMenu
 
+Package: com.susu.powermenu
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.powermenu_1.0.6_iphoneos-arm64.deb
+Size: 34290
+MD5sum: d18fd9a673962c4f36070f0f6b7f2e59
+SHA1: 93a407868df021addc5eaf75f4b49f6b192a3c1d
+SHA256: 369b5cac7bb5d4d76fe3803ca78966ba654bd5c4af32898cb2f78aff98dcbc46
+Section: Control Center (Modules)
+Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。
+Author: 苏苏
+Icon: https://www.susubaby.top/images/powermenu.png
+Name: PowerMenu
+
 Package: com.susu.reachplayer
 Version: 3.7.1
 Architecture: iphoneos-arm64
@@ -648,6 +665,24 @@ SHA1: e49d5f2e5070b2a30ee7869624af81a27b540195
 SHA256: 45cb970717231433c9604ac00430a275a5d272c5268c86ba54891e2818879c43
 Section: 插件
 Description: ReachPlayer便捷访问音乐专辑,仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.7.9
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1240
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.7.9_iphoneos-arm64.deb
+Size: 562716
+MD5sum: a0c3b887b4539fb9d0766ec45e15613a
+SHA1: 6740d5bbdf44dba2b0c9fe3297aeb6785eb8c0f3
+SHA256: ff42c94a9136de21a9382413bc7ec9d0f201fec40ae8055e9124346a3c22942c
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
 Author: 苏苏
 Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
