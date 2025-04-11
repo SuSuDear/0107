@@ -211,22 +211,6 @@ Author: PoomSmart
 Icon: https://www.susubaby.top/images/camera.png
 Name: 录像暂停 RecordPause
 
-Package: com.susu.awemenoads
-Version: 1.0
-Architecture: iphoneos-arm64
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.awemenoads_1.0_iphoneos-arm64.deb
-Size: 9804
-MD5sum: 5518329e11b0a4f8fa5e59df04de9b22
-SHA1: f3d4e852957b094916200d3a8ac46bb28bb48cca
-SHA256: 82c731066592a0f04475846e6342a9e3b7855e6189786e6cb03084b040e5fa54
-Section: 插件
-Priority: optional
-Description: 抖音去广告及青少年提示
-Author: unknown
-Icon: https://www.susubaby.top/images/douyin.png
-Name: AwemeNoAds
-
 Package: com.susu.colorful
 Version: 1.0.0
 Architecture: iphoneos-arm64
