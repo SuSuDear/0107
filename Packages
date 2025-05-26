@@ -966,6 +966,23 @@ Icon: https://www.susubaby.top/images/douyin.png
 Name: SuAwemeHook
 Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
 
+Package: com.susu.surespringcc
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 180
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.surespringcc_1.0.5_iphoneos-arm64.deb
+Size: 15798
+MD5sum: bb213f03b78c6b5ab0730860512418ce
+SHA1: 03f62ee0ee42fa7562aa741a4718a0c20260d752
+SHA256: 0baf49de9d52a127e6ec8e7f1306d8a08fd050f794a9bb9d2a6d5c3f48827bd6
+Section: Control Center (Modules)
+Description: 控制中心杀后台注销SpringBoard，单一模块只有注销功能，带小彩蛋。
+Author: 苏苏
+Icon: https://www.susubaby.top/images/surespringcc.png
+Name: SuRespringCC
+
 Package: com.susu.suxhshook
 Version: 1.0
 Architecture: iphoneos-arm64
