@@ -498,20 +498,21 @@ Icon: https://www.susubaby.top/images/Preferences.png
 Name: NoPreferencesTips
 
 Package: com.susu.photos
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
-Installed-Size: 712
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/com.susu.photos_1.0_iphoneos-arm64.deb
-Size: 4016
-MD5sum: 6088123f6b576f8fb7984a621ec76401
-SHA1: acfb1420c828293c5a593cd559f7a60623091644
-SHA256: 210facad9279d3f407b2694d469e2be6c19bc612263e4d58185b15067a1c9dc6
-Section: 系统
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.photos_1.0.1_iphoneos-arm64.deb
+Size: 3602
+MD5sum: 3ae4df4f30919e910ce9f27d247a895f
+SHA1: 238c4d180f07c168e6a0bac55bec8493bebf73cb
+SHA256: a7fccb6e91b2ceb21d09ae3b89f9c2dcd60b95630d0b35791b4c8ba5000b0b22
+Section: Tweaks
+Description: 删除原生相册无用的窗口
 Author: 苏苏
 Icon: https://www.susubaby.top/images/photos.png
-Name: 相册增强
+Name: SuPhotos
 
 Package: com.susu.powermenu
 Version: 1.0.4-3
